@@ -1,4 +1,5 @@
 [
+  
   {
     "intent": "exams",
     "question": "Where can I find details on exam formats and support?",
@@ -1175,202 +1176,177 @@
     "answer": "The invigilator will read a closing announcement to formally close the exam\nPlease ensure your student number appears on each script book and any additional materials which should be handed in\nAt the end of the exam remain in your seat until the invigilator has collected your script book(s) from you\nScript book(s) will be anonymously marked\nScript book(s) are the property of Edinburgh Napier University and must not be removed from the exam room"
   },
   {
-    "intent": "exam",
+    "intent": "exams",
     "question": "How is academic integrity maintained during exams?",
     "answer": "It is important that all students abide by the student conduct regulations when undertaking examinations. Exam answers will also be checked through Turnitin for originality. Learn about what steps we take to ensure examination integrity, as well as the steps you can take to ensure your own academic integrity when it comes to exams and assessments."
   },
   {
-    "intent": "exam",
+    "intent": "exams",
     "question": "What does the university do to ensure exam honesty?",
     "answer": "It is important that all students abide by the student conduct regulations when undertaking examinations. Exam answers will also be checked through Turnitin for originality. Learn about what steps we take to ensure examination integrity, as well as the steps you can take to ensure your own academic integrity when it comes to exams and assessments."
   },
   {
-    "intent": "exam",
+    "intent": "exams",
     "question": "What should I know about student conduct and exams?",
     "answer": "It is important that all students abide by the student conduct regulations when undertaking examinations. Exam answers will also be checked through Turnitin for originality. Learn about what steps we take to ensure examination integrity, as well as the steps you can take to ensure your own academic integrity when it comes to exams and assessments."
   },
   {
-    "intent": "exam",
+    "intent": "exams",
     "question": "Are exams checked for plagiarism?",
     "answer": "It is important that all students abide by the student conduct regulations when undertaking examinations. Exam answers will also be checked through Turnitin for originality. Learn about what steps we take to ensure examination integrity, as well as the steps you can take to ensure your own academic integrity when it comes to exams and assessments."
   },
   {
-    "intent": "exam",
+    "intent": "exams",
     "question": "Why are student exams checked with Turnitin?",
     "answer": "It is important that all students abide by the student conduct regulations when undertaking examinations. Exam answers will also be checked through Turnitin for originality. Learn about what steps we take to ensure examination integrity, as well as the steps you can take to ensure your own academic integrity when it comes to exams and assessments."
   },
   {
-    "intent": "exam",
+    "intent": "exams",
     "question": "What are post-exam interviews and why are they done?",
     "answer": "In order to ensure the integrity of the examination process, we undertake some post-exam interviews with a selected number of students. If you are contacted for this reason, please be assured that the interview is not a test of you as an individual and is not something to be concerned about. The process is designed to provide us with information on how the student group as a whole engaged with the examination in the online space. It is therefore a quality assurance process which might be used by the Programme Assessment Boards when reaching their decisions on overall module results."
   },
   {
-    "intent": "exam",
+    "intent": "exams",
     "question": "Why might I be contacted for a post-exam interview?",
     "answer": "In order to ensure the integrity of the examination process, we undertake some post-exam interviews with a selected number of students. If you are contacted for this reason, please be assured that the interview is not a test of you as an individual and is not something to be concerned about. The process is designed to provide us with information on how the student group as a whole engaged with the examination in the online space. It is therefore a quality assurance process which might be used by the Programme Assessment Boards when reaching their decisions on overall module results."
   },
   {
-    "intent": "exam",
+    "intent": "exams",
     "question": "Should I worry if I\u2019m selected for a post-exam interview?",
     "answer": "In order to ensure the integrity of the examination process, we undertake some post-exam interviews with a selected number of students. If you are contacted for this reason, please be assured that the interview is not a test of you as an individual and is not something to be concerned about. The process is designed to provide us with information on how the student group as a whole engaged with the examination in the online space. It is therefore a quality assurance process which might be used by the Programme Assessment Boards when reaching their decisions on overall module results."
   },
   {
-    "intent": "exam",
+    "intent": "exams",
     "question": "What is the purpose of Edinburgh Napier's post-exam interviews?",
     "answer": "In order to ensure the integrity of the examination process, we undertake some post-exam interviews with a selected number of students. If you are contacted for this reason, please be assured that the interview is not a test of you as an individual and is not something to be concerned about. The process is designed to provide us with information on how the student group as a whole engaged with the examination in the online space. It is therefore a quality assurance process which might be used by the Programme Assessment Boards when reaching their decisions on overall module results."
   },
   {
-    "intent": "exam",
+    "intent": "exams",
     "question": "How does the university assess exam engagement after the test?",
     "answer": "In order to ensure the integrity of the examination process, we undertake some post-exam interviews with a selected number of students. If you are contacted for this reason, please be assured that the interview is not a test of you as an individual and is not something to be concerned about. The process is designed to provide us with information on how the student group as a whole engaged with the examination in the online space. It is therefore a quality assurance process which might be used by the Programme Assessment Boards when reaching their decisions on overall module results."
   },
   {
-    "intent": "exam",
+    "intent": "exams",
     "question": "What are essay mills and why should I avoid them?",
     "answer": "Essay mills are sophisticated and manipulative in their attempts to attract students and can appear to have been endorsed by the University, which they are not. Sadly there are many cases of such services threatening to blackmail students, leading to significant academic, professional and personal consequences. Please remember that using such services is against the University's academic regulations and could result in you being permanently excluded from the University with the removal of credit. More guidance around essay mills, including support available if you feel you have been a victim, is available on our Academic integrity page."
   },
   {
-    "intent": "exam",
+    "intent": "exams",
     "question": "Are essay mills safe to use?",
     "answer": "Essay mills are sophisticated and manipulative in their attempts to attract students and can appear to have been endorsed by the University, which they are not. Sadly there are many cases of such services threatening to blackmail students, leading to significant academic, professional and personal consequences. Please remember that using such services is against the University's academic regulations and could result in you being permanently excluded from the University with the removal of credit. More guidance around essay mills, including support available if you feel you have been a victim, is available on our Academic integrity page."
   },
   {
-    "intent": "exam",
+    "intent": "exams",
     "question": "What can happen if I use an essay writing service?",
     "answer": "Essay mills are sophisticated and manipulative in their attempts to attract students and can appear to have been endorsed by the University, which they are not. Sadly there are many cases of such services threatening to blackmail students, leading to significant academic, professional and personal consequences. Please remember that using such services is against the University's academic regulations and could result in you being permanently excluded from the University with the removal of credit. More guidance around essay mills, including support available if you feel you have been a victim, is available on our Academic integrity page."
   },
   {
-    "intent": "exam",
+    "intent": "exams",
     "question": "Can I get expelled for using an essay mill?",
     "answer": "Essay mills are sophisticated and manipulative in their attempts to attract students and can appear to have been endorsed by the University, which they are not. Sadly there are many cases of such services threatening to blackmail students, leading to significant academic, professional and personal consequences. Please remember that using such services is against the University's academic regulations and could result in you being permanently excluded from the University with the removal of credit. More guidance around essay mills, including support available if you feel you have been a victim, is available on our Academic integrity page."
   },
   {
-    "intent": "exam",
+    "intent": "exams",
     "question": "Where can I find support if I\u2019ve been targeted by essay mills?",
     "answer": "Essay mills are sophisticated and manipulative in their attempts to attract students and can appear to have been endorsed by the University, which they are not. Sadly there are many cases of such services threatening to blackmail students, leading to significant academic, professional and personal consequences. Please remember that using such services is against the University's academic regulations and could result in you being permanently excluded from the University with the removal of credit. More guidance around essay mills, including support available if you feel you have been a victim, is available on our Academic integrity page."
   },
   {
-    "intent": "exam",
+    "intent": "exams",
     "question": "Does the university consider religious observance during assessments?",
     "answer": "Edinburgh Napier University recognises religion and belief as a protected equality characteristic. The University and our students have a mutual responsibility for accommodating religious observance within the University environment and the University works with students and their representatives to ensure that during the course of their studies, students can access appropriate environments, such as designated Quiet Rooms, to allow religious fulfilment."
   },
   {
-    "intent": "exam",
+    "intent": "exams",
     "question": "How does Napier support religious needs during exams?",
     "answer": "Edinburgh Napier University recognises religion and belief as a protected equality characteristic. The University and our students have a mutual responsibility for accommodating religious observance within the University environment and the University works with students and their representatives to ensure that during the course of their studies, students can access appropriate environments, such as designated Quiet Rooms, to allow religious fulfilment."
   },
   {
-    "intent": "exam",
+    "intent": "exams",
     "question": "Are there quiet spaces for religious observance during exams?",
     "answer": "Edinburgh Napier University recognises religion and belief as a protected equality characteristic. The University and our students have a mutual responsibility for accommodating religious observance within the University environment and the University works with students and their representatives to ensure that during the course of their studies, students can access appropriate environments, such as designated Quiet Rooms, to allow religious fulfilment."
   },
   {
-    "intent": "exam",
+    "intent": "exams",
     "question": "Can I request religious accommodations during assessments?",
     "answer": "Edinburgh Napier University recognises religion and belief as a protected equality characteristic. The University and our students have a mutual responsibility for accommodating religious observance within the University environment and the University works with students and their representatives to ensure that during the course of their studies, students can access appropriate environments, such as designated Quiet Rooms, to allow religious fulfilment."
   },
   {
-    "intent": "exam",
+    "intent": "exams",
     "question": "What is the university\u2019s stance on religion and exams?",
     "answer": "Edinburgh Napier University recognises religion and belief as a protected equality characteristic. The University and our students have a mutual responsibility for accommodating religious observance within the University environment and the University works with students and their representatives to ensure that during the course of their studies, students can access appropriate environments, such as designated Quiet Rooms, to allow religious fulfilment."
   },
-  {
-    "intent": "exam_fit_to_sit",
+ {
+    "intent": "exams_extension",
     "question": "What does Fit to Sit mean, and how do I report extenuating circumstances?",
     "answer": "When you attempt an assessment such as an exam or coursework, you are declaring that you are 'fit to sit' - this means you are well enough to complete the assessment to the best of your abilities.\n\nIf you have an issue that might impact your assessments, you need to tell us on time. If you don\u2019t, this will likely prevent you from being successful in using the arrangements in place to support your studies.\n\nPlease do not wait until you have your assessment results to tell us about something that has impacted you, as it will be too late by then.\n\nThis guidance explains a range of processes we have in place to support you:\n- Extensions\n- Deferrals\n- Retrospective Extenuating Circumstances\n- Exceptional Extenuating Circumstances\n\nPlease be aware that some of these options mean you will be 'voiding' an assessment attempt, which means a zero mark just now and an opportunity to sit the assessment again."
   },
   {
-    "intent": "exam_fit_to_sit",
+    "intent": "exams_extension",
     "question": "How does Fit to Sit work with extenuating situations?",
     "answer": "When you attempt an assessment such as an exam or coursework, you are declaring that you are 'fit to sit' - this means you are well enough to complete the assessment to the best of your abilities.\n\nIf you have an issue that might impact your assessments, you need to tell us on time. If you don\u2019t, this will likely prevent you from being successful in using the arrangements in place to support your studies.\n\nPlease do not wait until you have your assessment results to tell us about something that has impacted you, as it will be too late by then.\n\nThis guidance explains a range of processes we have in place to support you:\n- Extensions\n- Deferrals\n- Retrospective Extenuating Circumstances\n- Exceptional Extenuating Circumstances\n\nPlease be aware that some of these options mean you will be 'voiding' an assessment attempt, which means a zero mark just now and an opportunity to sit the assessment again."
   },
   {
-    "intent": "exam_fit_to_sit",
+    "intent": "exams_extension",
     "question": "What should I know about Fit to Sit and exceptional circumstances?",
     "answer": "When you attempt an assessment such as an exam or coursework, you are declaring that you are 'fit to sit' - this means you are well enough to complete the assessment to the best of your abilities.\n\nIf you have an issue that might impact your assessments, you need to tell us on time. If you don\u2019t, this will likely prevent you from being successful in using the arrangements in place to support your studies.\n\nPlease do not wait until you have your assessment results to tell us about something that has impacted you, as it will be too late by then.\n\nThis guidance explains a range of processes we have in place to support you:\n- Extensions\n- Deferrals\n- Retrospective Extenuating Circumstances\n- Exceptional Extenuating Circumstances\n\nPlease be aware that some of these options mean you will be 'voiding' an assessment attempt, which means a zero mark just now and an opportunity to sit the assessment again."
   },
   {
-    "intent": "exam_fit_to_sit",
+    "intent": "exams_extension",
     "question": "If I\u2019m unwell, how does Fit to Sit affect my assessments?",
     "answer": "When you attempt an assessment such as an exam or coursework, you are declaring that you are 'fit to sit' - this means you are well enough to complete the assessment to the best of your abilities.\n\nIf you have an issue that might impact your assessments, you need to tell us on time. If you don\u2019t, this will likely prevent you from being successful in using the arrangements in place to support your studies.\n\nPlease do not wait until you have your assessment results to tell us about something that has impacted you, as it will be too late by then.\n\nThis guidance explains a range of processes we have in place to support you:\n- Extensions\n- Deferrals\n- Retrospective Extenuating Circumstances\n- Exceptional Extenuating Circumstances\n\nPlease be aware that some of these options mean you will be 'voiding' an assessment attempt, which means a zero mark just now and an opportunity to sit the assessment again."
   },
   {
-    "intent": "exam_fit_to_sit",
+    "intent": "exams_extension",
     "question": "How do I use the Fit to Sit policy and get help for difficult circumstances?",
     "answer": "When you attempt an assessment such as an exam or coursework, you are declaring that you are 'fit to sit' - this means you are well enough to complete the assessment to the best of your abilities.\n\nIf you have an issue that might impact your assessments, you need to tell us on time. If you don\u2019t, this will likely prevent you from being successful in using the arrangements in place to support your studies.\n\nPlease do not wait until you have your assessment results to tell us about something that has impacted you, as it will be too late by then.\n\nThis guidance explains a range of processes we have in place to support you:\n- Extensions\n- Deferrals\n- Retrospective Extenuating Circumstances\n- Exceptional Extenuating Circumstances\n\nPlease be aware that some of these options mean you will be 'voiding' an assessment attempt, which means a zero mark just now and an opportunity to sit the assessment again."
   },
   {
-    "intent": "exams",
-    "question": "What steps should I take if something comes up before an exam or deadline?",
-    "answer": "This section explains what to do if you think you cannot submit your coursework on time or cannot sit an exam on the day it is scheduled. In these circumstances, you have two options available to you:\n\n- Apply for an extension\n- Apply for a deferral\n\nIt is important you adhere to the deadlines outlined in these processes and consider what they might mean for your circumstances."
-  },
-  {
-    "intent": "exams",
-    "question": "How do I handle problems before submitting coursework or taking an exam?",
-    "answer": "This section explains what to do if you think you cannot submit your coursework on time or cannot sit an exam on the day it is scheduled. In these circumstances, you have two options available to you:\n\n- Apply for an extension\n- Apply for a deferral\n\nIt is important you adhere to the deadlines outlined in these processes and consider what they might mean for your circumstances."
-  },
-  {
-    "intent": "exams",
-    "question": "What are my options if I face issues before the assessment date?",
-    "answer": "This section explains what to do if you think you cannot submit your coursework on time or cannot sit an exam on the day it is scheduled. In these circumstances, you have two options available to you:\n\n- Apply for an extension\n- Apply for a deferral\n\nIt is important you adhere to the deadlines outlined in these processes and consider what they might mean for your circumstances."
-  },
-  {
-    "intent": "exams",
-    "question": "If I can\u2019t submit on time, what should I do?",
-    "answer": "This section explains what to do if you think you cannot submit your coursework on time or cannot sit an exam on the day it is scheduled. In these circumstances, you have two options available to you:\n\n- Apply for an extension\n- Apply for a deferral\n\nIt is important you adhere to the deadlines outlined in these processes and consider what they might mean for your circumstances."
-  },
-  {
-    "intent": "exams",
-    "question": "How should I act if I know about a problem ahead of an assessment?",
-    "answer": "This section explains what to do if you think you cannot submit your coursework on time or cannot sit an exam on the day it is scheduled. In these circumstances, you have two options available to you:\n\n- Apply for an extension\n- Apply for a deferral\n\nIt is important you adhere to the deadlines outlined in these processes and consider what they might mean for your circumstances."
-  },
-  {
-    "intent": "exams",
+    "intent": "exams_extension",
     "question": "When is it appropriate to ask for an extension?",
     "answer": "If the assessment is a non-exam-based assessment, e.g. an essay or a presentation, and you just need a short period of additional time (up to 5 working days), you should ask your Module Leader for an extension using the RE1 form.\n\nIn extreme circumstances, or for modules above 20 credits, a student can apply for up to 10 working days by filling out the RE1 form. Time-relevant third-party evidence might be requested from the Module Leader for applications up to 10 working days.\n\nRequests for extension must be submitted no later than the date on which the coursework is due - see Extenuating Circumstances, Extensions and Deferrals Regulations EC2.2 (PDF, 250kB)"
   },
   {
-    "intent": "exams",
+    "intent": "exams_extension",
     "question": "What\u2019s the right time to apply for coursework extensions?",
     "answer": "If the assessment is a non-exam-based assessment, e.g. an essay or a presentation, and you just need a short period of additional time (up to 5 working days), you should ask your Module Leader for an extension using the RE1 form.\n\nIn extreme circumstances, or for modules above 20 credits, a student can apply for up to 10 working days by filling out the RE1 form. Time-relevant third-party evidence might be requested from the Module Leader for applications up to 10 working days.\n\nRequests for extension must be submitted no later than the date on which the coursework is due - see Extenuating Circumstances, Extensions and Deferrals Regulations EC2.2 (PDF, 250kB)"
   },
   {
-    "intent": "exams",
+    "intent": "exams_extension",
     "question": "In what cases should I submit an extension request?",
     "answer": "If the assessment is a non-exam-based assessment, e.g. an essay or a presentation, and you just need a short period of additional time (up to 5 working days), you should ask your Module Leader for an extension using the RE1 form.\n\nIn extreme circumstances, or for modules above 20 credits, a student can apply for up to 10 working days by filling out the RE1 form. Time-relevant third-party evidence might be requested from the Module Leader for applications up to 10 working days.\n\nRequests for extension must be submitted no later than the date on which the coursework is due - see Extenuating Circumstances, Extensions and Deferrals Regulations EC2.2 (PDF, 250kB)"
   },
   {
-    "intent": "exam_extension_timing",
+    "intent": "exams_extension",
     "question": "Can I apply for an extension before the deadline?",
     "answer": "If the assessment is a non-exam-based assessment, e.g. an essay or a presentation, and you just need a short period of additional time (up to 5 working days), you should ask your Module Leader for an extension using the RE1 form.\n\nIn extreme circumstances, or for modules above 20 credits, a student can apply for up to 10 working days by filling out the RE1 form. Time-relevant third-party evidence might be requested from the Module Leader for applications up to 10 working days.\n\nRequests for extension must be submitted no later than the date on which the coursework is due - see Extenuating Circumstances, Extensions and Deferrals Regulations EC2.2 (PDF, 250kB)"
   },
   {
-    "intent": "exams",
+    "intent": "exams_extension",
     "question": "What type of assessments qualify for extension requests?",
     "answer": "If the assessment is a non-exam-based assessment, e.g. an essay or a presentation, and you just need a short period of additional time (up to 5 working days), you should ask your Module Leader for an extension using the RE1 form.\n\nIn extreme circumstances, or for modules above 20 credits, a student can apply for up to 10 working days by filling out the RE1 form. Time-relevant third-party evidence might be requested from the Module Leader for applications up to 10 working days.\n\nRequests for extension must be submitted no later than the date on which the coursework is due - see Extenuating Circumstances, Extensions and Deferrals Regulations EC2.2 (PDF, 250kB)"
   },
   {
-    "intent": "exams",
+    "intent": "exams_extension",
     "question": "What should I think about before applying for an extension?",
     "answer": "Extensions can be very helpful. However, make sure you consider the impact that delaying the submission of an assessment may have on your ability to meet other assessment deadlines.\n\nMost courses have been developed to avoid you having too many assessments at the same time, so asking for extensions can impact upon this, leaving you more work to do at the same time later in the academic year."
   },
   {
-    "intent": "exams",
+    "intent": "exams_extension",
     "question": "Will getting an extension affect my other assessments?",
     "answer": "Extensions can be very helpful. However, make sure you consider the impact that delaying the submission of an assessment may have on your ability to meet other assessment deadlines.\n\nMost courses have been developed to avoid you having too many assessments at the same time, so asking for extensions can impact upon this, leaving you more work to do at the same time later in the academic year."
   },
   {
-    "intent": "exams",
+    "intent": "exams_extension",
     "question": "Should I consider future workload when asking for an extension?",
     "answer": "Extensions can be very helpful. However, make sure you consider the impact that delaying the submission of an assessment may have on your ability to meet other assessment deadlines.\n\nMost courses have been developed to avoid you having too many assessments at the same time, so asking for extensions can impact upon this, leaving you more work to do at the same time later in the academic year."
   },
   {
-    "intent": "exams",
+    "intent": "exams_extension",
     "question": "Could an extension cause overlap with other deadlines?",
     "answer": "Extensions can be very helpful. However, make sure you consider the impact that delaying the submission of an assessment may have on your ability to meet other assessment deadlines.\n\nMost courses have been developed to avoid you having too many assessments at the same time, so asking for extensions can impact upon this, leaving you more work to do at the same time later in the academic year."
   },
   {
-    "intent": "exams",
+    "intent": "exams_extension",
     "question": "What impact can extensions have on my academic schedule?",
     "answer": "Extensions can be very helpful. However, make sure you consider the impact that delaying the submission of an assessment may have on your ability to meet other assessment deadlines.\n\nMost courses have been developed to avoid you having too many assessments at the same time, so asking for extensions can impact upon this, leaving you more work to do at the same time later in the academic year."
   },
@@ -1380,22 +1356,225 @@
     "answer": "Deadline: Apply by the original coursework submission date.\nDownload the RE1 form (Word 56kB)."
   },
   {
-    "intent": "exam_extension",
+    "intent": "exams_extension",
     "question": "Where do I apply for an extension before my coursework is due?",
     "answer": "Deadline: Apply by the original coursework submission date.\nDownload the RE1 form (Word 56kB)."
   },
   {
-    "intent": "exam_extension",
+    "intent": "exams_extension",
     "question": "What is the process to apply for an extension today?",
     "answer": "Deadline: Apply by the original coursework submission date.\nDownload the RE1 form (Word 56kB)."
   },
   {
-    "intent": "exam_extension",
+    "intent": "exams_extension",
     "question": "How do I access and fill in the RE1 form for an extension?",
     "answer": "Deadline: Apply by the original coursework submission date.\nDownload the RE1 form (Word 56kB)."
   },
   {
-    "intent": "eexam_extension",
+    "intent": "exams_extension",
+    "question": "What\u2019s the deadline to submit the extension form?",
+    "answer": "Deadline: Apply by the original coursework submission date.\nDownload the RE1 form (Word 56kB)."
+  },
+  {
+    "intent": "exams_extension",
+    "question": "When should I submit a deferral request?",
+    "answer": "If your circumstances are more serious or relate to a formal exam, you need more than an additional 5 working days and/or you are not able or ready to attempt the assessment at all, you can apply for a Deferral of Assessment. This normally means handing in the assessment or sitting the exam at the next available opportunity, which will either be the following trimester or over the summer assessment period.\n\nApplications for Deferral of Assessment should be made ahead of the assessment point by completing an application including appropriate time-relevant third-party evidence via the \u2018Apply for Extenuating Circumstances and Deferrals\u2019 tile on the eStudent records portal.\n\nWhere submitting before the assessment deadline is not possible, an application for Deferral of Assessment and associated supporting evidence may be accepted up to 5 working days after the assessment point - see Extenuating Circumstances, Extensions and Deferrals Regulations EC3.2 (PDF, 250kB)."
+  },
+  {
+    "intent": "exams_extension",
+    "question": "How do I know if I should apply for deferral instead of extension?",
+    "answer": "If your circumstances are more serious or relate to a formal exam, you need more than an additional 5 working days and/or you are not able or ready to attempt the assessment at all, you can apply for a Deferral of Assessment. This normally means handing in the assessment or sitting the exam at the next available opportunity, which will either be the following trimester or over the summer assessment period.\n\nApplications for Deferral of Assessment should be made ahead of the assessment point by completing an application including appropriate time-relevant third-party evidence via the \u2018Apply for Extenuating Circumstances and Deferrals\u2019 tile on the eStudent records portal.\n\nWhere submitting before the assessment deadline is not possible, an application for Deferral of Assessment and associated supporting evidence may be accepted up to 5 working days after the assessment point - see Extenuating Circumstances, Extensions and Deferrals Regulations EC3.2 (PDF, 250kB)."
+  },
+  {
+    "intent": "exams_extension",
+    "question": "What are the criteria for applying for a deferral of assessment?",
+    "answer": "If your circumstances are more serious or relate to a formal exam, you need more than an additional 5 working days and/or you are not able or ready to attempt the assessment at all, you can apply for a Deferral of Assessment. This normally means handing in the assessment or sitting the exam at the next available opportunity, which will either be the following trimester or over the summer assessment period.\n\nApplications for Deferral of Assessment should be made ahead of the assessment point by completing an application including appropriate time-relevant third-party evidence via the \u2018Apply for Extenuating Circumstances and Deferrals\u2019 tile on the eStudent records portal.\n\nWhere submitting before the assessment deadline is not possible, an application for Deferral of Assessment and associated supporting evidence may be accepted up to 5 working days after the assessment point - see Extenuating Circumstances, Extensions and Deferrals Regulations EC3.2 (PDF, 250kB)."
+  },
+  {
+    "intent": "exams_extension",
+    "question": "How much time do I have to apply for a deferral after the assessment?",
+    "answer": "If your circumstances are more serious or relate to a formal exam, you need more than an additional 5 working days and/or you are not able or ready to attempt the assessment at all, you can apply for a Deferral of Assessment. This normally means handing in the assessment or sitting the exam at the next available opportunity, which will either be the following trimester or over the summer assessment period.\n\nApplications for Deferral of Assessment should be made ahead of the assessment point by completing an application including appropriate time-relevant third-party evidence via the \u2018Apply for Extenuating Circumstances and Deferrals\u2019 tile on the eStudent records portal.\n\nWhere submitting before the assessment deadline is not possible, an application for Deferral of Assessment and associated supporting evidence may be accepted up to 5 working days after the assessment point - see Extenuating Circumstances, Extensions and Deferrals Regulations EC3.2 (PDF, 250kB)."
+  },
+  {
+    "intent": "exams_extension",
+    "question": "What factors should I think about before requesting a deferral?",
+    "answer": "The decision to defer assessment could affect whether you can carry on to the next year of your studies, so you should always seek advice from your Programme Leader, Personal Development Tutor and/or ENSA Advice before applying for a deferral.\n\nIf you apply for a deferral of an assessment you are in effect 'voiding' the attempt, which means you will not receive a mark and you will need to sit the assessment at a future point (as a first or second attempt).\n\nIf you requested a deferral and your circumstances are deemed valid, and then you continue to undertake the assessment, your mark/grade will not count even if it was a pass. This is because you have indicated you were not fully 'fit to sit' and could not therefore perform to the best of your ability.\n\nIf you defer a Trimester 1 assessment, the next opportunity to sit the assessment may be in the summer reassessment diet.\n\nInformation for international students:\nIf you are a student visa student, you should be aware that there is a maximum number of opportunities that the UKVI permit students to have with regards undertaking an assessment and that a deferred assessment will still count towards this maximum number of opportunities.\n\nStudents should consult with the Visa and International Support team for guidance on their own individual situation by emailing internationalsupport@napier.ac.uk or calling 0131 455 2272."
+  },
+  {
+    "intent": "exams_extension",
+    "question": "Is there anything I need to know before applying for a deferral?",
+    "answer": "The decision to defer assessment could affect whether you can carry on to the next year of your studies, so you should always seek advice from your Programme Leader, Personal Development Tutor and/or ENSA Advice before applying for a deferral.\n\nIf you apply for a deferral of an assessment you are in effect 'voiding' the attempt, which means you will not receive a mark and you will need to sit the assessment at a future point (as a first or second attempt).\n\nIf you requested a deferral and your circumstances are deemed valid, and then you continue to undertake the assessment, your mark/grade will not count even if it was a pass. This is because you have indicated you were not fully 'fit to sit' and could not therefore perform to the best of your ability.\n\nIf you defer a Trimester 1 assessment, the next opportunity to sit the assessment may be in the summer reassessment diet.\n\nInformation for international students:\nIf you are a student visa student, you should be aware that there is a maximum number of opportunities that the UKVI permit students to have with regards undertaking an assessment and that a deferred assessment will still count towards this maximum number of opportunities.\n\nStudents should consult with the Visa and International Support team for guidance on their own individual situation by emailing internationalsupport@napier.ac.uk or calling 0131 455 2272."
+  },
+  {
+    "intent": "exams_extension",
+    "question": "Should I talk to someone before submitting a deferral request?",
+    "answer": "The decision to defer assessment could affect whether you can carry on to the next year of your studies, so you should always seek advice from your Programme Leader, Personal Development Tutor and/or ENSA Advice before applying for a deferral.\n\nIf you apply for a deferral of an assessment you are in effect 'voiding' the attempt, which means you will not receive a mark and you will need to sit the assessment at a future point (as a first or second attempt).\n\nIf you requested a deferral and your circumstances are deemed valid, and then you continue to undertake the assessment, your mark/grade will not count even if it was a pass. This is because you have indicated you were not fully 'fit to sit' and could not therefore perform to the best of your ability.\n\nIf you defer a Trimester 1 assessment, the next opportunity to sit the assessment may be in the summer reassessment diet.\n\nInformation for international students:\nIf you are a student visa student, you should be aware that there is a maximum number of opportunities that the UKVI permit students to have with regards undertaking an assessment and that a deferred assessment will still count towards this maximum number of opportunities.\n\nStudents should consult with the Visa and International Support team for guidance on their own individual situation by emailing internationalsupport@napier.ac.uk or calling 0131 455 2272."
+  },
+  {
+    "intent": "exams_extension",
+    "question": "How can I submit a deferral request?",
+    "answer": "Apply for a deferral now:\n\n- Deadline: Apply within 5 working days after the agreed submission date\n- Access the Deferral Application via the eStudent records portal\n- You will be required to attach time-relevant third-party supporting evidence to your application.\n\nFor support, please see the Student Guidance for Extenuating Circumstances page.\n\nIf you need additional help, please contact the relevant School team:\n\n- Business School Students: FitToSitECsTBS@napier.ac.uk\n- All Merchiston-based students: Merchistonecs@napier.ac.uk\n- School of Applied Sciences students: SAS.ExtCirc@napier.ac.uk\n- School of Health and Social Care students: SHSC.ExtCirc@napier.ac.uk\n- If you are studying at the Edinburgh Napier University International College (ENUIC), please contact enuic@napier.ac.uk for assistance."
+  },
+  {
+    "intent": "exams_extension",
+    "question": "Where do I apply for an assessment deferral?",
+    "answer": "Apply for a deferral now:\n\n- Deadline: Apply within 5 working days after the agreed submission date\n- Access the Deferral Application via the eStudent records portal\n- You will be required to attach time-relevant third-party supporting evidence to your application.\n\nFor support, please see the Student Guidance for Extenuating Circumstances page.\n\nIf you need additional help, please contact the relevant School team:\n\n- Business School Students: FitToSitECsTBS@napier.ac.uk\n- All Merchiston-based students: Merchistonecs@napier.ac.uk\n- School of Applied Sciences students: SAS.ExtCirc@napier.ac.uk\n- School of Health and Social Care students: SHSC.ExtCirc@napier.ac.uk\n- If you are studying at the Edinburgh Napier University International College (ENUIC), please contact enuic@napier.ac.uk for assistance."
+  },
+  {
+    "intent": "exams_extension",
+    "question": "What\u2019s the process for applying for a deferral?",
+    "answer": "Apply for a deferral now:\n\n- Deadline: Apply within 5 working days after the agreed submission date\n- Access the Deferral Application via the eStudent records portal\n- You will be required to attach time-relevant third-party supporting evidence to your application.\n\nFor support, please see the Student Guidance for Extenuating Circumstances page.\n\nIf you need additional help, please contact the relevant School team:\n\n- Business School Students: FitToSitECsTBS@napier.ac.uk\n- All Merchiston-based students: Merchistonecs@napier.ac.uk\n- School of Applied Sciences students: SAS.ExtCirc@napier.ac.uk\n- School of Health and Social Care students: SHSC.ExtCirc@napier.ac.uk\n- If you are studying at the Edinburgh Napier University International College (ENUIC), please contact enuic@napier.ac.uk for assistance."
+  },
+  {
+    "intent": "exams_extension",
+    "question": "How do I request a deferral if I can\u2019t complete my exam or coursework?",
+    "answer": "Apply for a deferral now:\n\n- Deadline: Apply within 5 working days after the agreed submission date\n- Access the Deferral Application via the eStudent records portal\n- You will be required to attach time-relevant third-party supporting evidence to your application.\n\nFor support, please see the Student Guidance for Extenuating Circumstances page.\n\nIf you need additional help, please contact the relevant School team:\n\n- Business School Students: FitToSitECsTBS@napier.ac.uk\n- All Merchiston-based students: Merchistonecs@napier.ac.uk\n- School of Applied Sciences students: SAS.ExtCirc@napier.ac.uk\n- School of Health and Social Care students: SHSC.ExtCirc@napier.ac.uk\n- If you are studying at the Edinburgh Napier University International College (ENUIC), please contact enuic@napier.ac.uk for assistance."
+  },
+  {
+    "intent": "exams_extension",
+    "question": "Where can I find the deferral application and what\u2019s the deadline?",
+    "answer": "Apply for a deferral now:\n\n- Deadline: Apply within 5 working days after the agreed submission date\n- Access the Deferral Application via the eStudent records portal\n- You will be required to attach time-relevant third-party supporting evidence to your application.\n\nFor support, please see the Student Guidance for Extenuating Circumstances page.\n\nIf you need additional help, please contact the relevant School team:\n\n- Business School Students: FitToSitECsTBS@napier.ac.uk\n- All Merchiston-based students: Merchistonecs@napier.ac.uk\n- School of Applied Sciences students: SAS.ExtCirc@napier.ac.uk\n- School of Health and Social Care students: SHSC.ExtCirc@napier.ac.uk\n- If you are studying at the Edinburgh Napier University International College (ENUIC), please contact enuic@napier.ac.uk for assistance."
+  },
+  {
+    "intent": "exams_extension",
+    "question": "What is the process for applying retrospectively if I wasn\u2019t fit to sit?",
+    "answer": "If you submit your assessment or sit an exam and then realise you were not 'fit to sit', you can apply for Retrospective Extenuating Circumstances within 5 working days of the assessment. Applications beyond this deadline are not accepted. Submit your application with time-relevant third-party evidence via the eStudent records portal. If valid, the Programme Assessment Board will consider it for your academic progression."
+  },
+  {
+    "intent": "exams_extension",
+    "question": "Am I eligible for late deferral if I couldn\u2019t complete my exam due to serious issues?",
+    "answer": "If your circumstances were so serious that you could not apply for a Deferral of Assessment in due time and you have not attempted the assessment, you can apply for Exceptional Extenuating Circumstances (late deferral)..."
+  },
+  {
+    "intent": "exams_extension",
+    "question": "What is the process for requesting an Exceptional Extenuating Circumstances deferral?",
+    "answer": "You must submit your Exceptional Extenuating Circumstances application through the \u2018Apply for Extenuating Circumstances and Deferrals\u2019 tile on the eStudent records portal..."
+  },
+  {
+    "intent": "exams_extension",
+    "question": "How do partner institution students get support with deferrals or extensions?",
+    "answer": "Please see the Student Guidance for Extenuating Circumstances page. Guidance documents are provided on myNapier, however if further assistance is required students studying overseas with our partner institutions should speak to their local programme team for support or their Edinburgh Napier Programme Leader. If necessary, students studying overseas with our partner institutions can also contact internationalprogrammes@napier.ac.uk for guidance."
+  },
+  {
+    "intent": "exams_extension",
+    "question": "Are there different deadlines for online learners applying for deferrals?",
+    "answer": "Students studying online should follow the processes detailed on this page, but the deadlines applicable to you may vary. If this applies to you, you may wish to contact globalonlinesupport@napier.ac.uk with any queries."
+  },
+  {
+    "intent": "exams_extension",
+    "question": "Who do I contact for support with extensions if I\u2019m on an online course?",
+    "answer": "Students studying online should follow the processes detailed on this page, but the deadlines applicable to you may vary. If this applies to you, you may wish to contact globalonlinesupport@napier.ac.uk with any queries."
+  },
+
+  {
+    "intent": "exams_extension",
+    "question": "How can I request an extension ahead of the due date?",
+    "answer": "Deadline: Apply by the original coursework submission date.\nDownload the RE1 form (Word 56kB)."
+  },
+  {
+    "intent": "exams_extension",
+    "question": "What’s the process to apply for coursework extension early?",
+    "answer": "Deadline: Apply by the original coursework submission date.\nDownload the RE1 form (Word 56kB)."
+  },
+  {
+    "intent": "exams_extension",
+    "question": "Is it possible to submit an extension form before my deadline?",
+    "answer": "Deadline: Apply by the original coursework submission date.\nDownload the RE1 form (Word 56kB)."
+  },
+  {
+    "intent": "exams_extension",
+    "question": "Where should I go to get an extension before the submission day?",
+    "answer": "Deadline: Apply by the original coursework submission date.\nDownload the RE1 form (Word 56kB)."
+  },
+  {
+    "intent": "exams_extension",
+    "question": "Can I apply for an assignment extension in advance?",
+    "answer": "Deadline: Apply by the original coursework submission date.\nDownload the RE1 form (Word 56kB)."
+  },
+  {
+    "intent": "exams_extension",
+    "question": "What do I need to do to ask for an early extension?",
+    "answer": "Deadline: Apply by the original coursework submission date.\nDownload the RE1 form (Word 56kB)."
+  },
+  {
+    "intent": "exams_extension",
+    "question": "How do I request an extension before my coursework is due?",
+    "answer": "Deadline: Apply by the original coursework submission date.\nDownload the RE1 form (Word 56kB)."
+  },
+  {
+    "intent": "exams_extension",
+    "question": "What steps should I take to get an extension before the deadline?",
+    "answer": "Deadline: Apply by the original coursework submission date.\nDownload the RE1 form (Word 56kB)."
+  },
+  {
+    "intent": "exams_extension",
+    "question": "Who do I contact for an extension ahead of time?",
+    "answer": "Deadline: Apply by the original coursework submission date.\nDownload the RE1 form (Word 56kB)."
+  },
+  {
+    "intent": "exams_extension",
+    "question": "What’s the correct way to apply for an extension in advance?",
+    "answer": "Deadline: Apply by the original coursework submission date.\nDownload the RE1 form (Word 56kB)."
+  },
+
+  {
+    "intent": "exams_extension",
+    "question": "Will taking an extension affect my other deadlines?",
+    "answer": "Extensions can be very helpful. However, make sure you consider the impact that delaying the submission of an assessment may have on your ability to meet other assessment deadlines.\n\nMost courses have been developed to avoid you having too many assessments at the same time, so asking for extensions can impact upon this, leaving you more work to do at the same time later in the academic year."
+  },
+  {
+    "intent": "exams_extension",
+    "question": "Can asking for an extension clash with future assessments?",
+    "answer": "Extensions can be very helpful. However, make sure you consider the impact that delaying the submission of an assessment may have on your ability to meet other assessment deadlines.\n\nMost courses have been developed to avoid you having too many assessments at the same time, so asking for extensions can impact upon this, leaving you more work to do at the same time later in the academic year."
+  },
+  {
+    "intent": "exams_extension",
+    "question": "Is there a risk of overlapping deadlines if I get an extension?",
+    "answer": "Extensions can be very helpful. However, make sure you consider the impact that delaying the submission of an assessment may have on your ability to meet other assessment deadlines.\n\nMost courses have been developed to avoid you having too many assessments at the same time, so asking for extensions can impact upon this, leaving you more work to do at the same time later in the academic year."
+  },
+  {
+    "intent": "exams_extension",
+    "question": "Might an extension lead to multiple assignments due at once?",
+    "answer": "Extensions can be very helpful. However, make sure you consider the impact that delaying the submission of an assessment may have on your ability to meet other assessment deadlines.\n\nMost courses have been developed to avoid you having too many assessments at the same time, so asking for extensions can impact upon this, leaving you more work to do at the same time later in the academic year."
+  },
+  {
+    "intent": "exams_extension",
+    "question": "Can delaying one submission affect my ability to meet others?",
+    "answer": "Extensions can be very helpful. However, make sure you consider the impact that delaying the submission of an assessment may have on your ability to meet other assessment deadlines.\n\nMost courses have been developed to avoid you having too many assessments at the same time, so asking for extensions can impact upon this, leaving you more work to do at the same time later in the academic year."
+  },
+  {
+    "intent": "exams_extension",
+    "question": "Will submitting coursework late affect my upcoming deadlines?",
+    "answer": "Extensions can be very helpful. However, make sure you consider the impact that delaying the submission of an assessment may have on your ability to meet other assessment deadlines.\n\nMost courses have been developed to avoid you having too many assessments at the same time, so asking for extensions can impact upon this, leaving you more work to do at the same time later in the academic year."
+  },
+  {
+    "intent": "exams_extension",
+    "question": "Could postponing an assessment make my schedule more difficult?",
+    "answer": "Extensions can be very helpful. However, make sure you consider the impact that delaying the submission of an assessment may have on your ability to meet other assessment deadlines.\n\nMost courses have been developed to avoid you having too many assessments at the same time, so asking for extensions can impact upon this, leaving you more work to do at the same time later in the academic year."
+  },
+  {
+    "intent": "exams_extension",
+    "question": "Does asking for extra time affect workload later in the term?",
+    "answer": "Extensions can be very helpful. However, make sure you consider the impact that delaying the submission of an assessment may have on your ability to meet other assessment deadlines.\n\nMost courses have been developed to avoid you having too many assessments at the same time, so asking for extensions can impact upon this, leaving you more work to do at the same time later in the academic year."
+  },
+  {
+    "intent": "exams_extension",
+    "question": "What happens to my timeline if I extend one assessment?",
+    "answer": "Extensions can be very helpful. However, make sure you consider the impact that delaying the submission of an assessment may have on your ability to meet other assessment deadlines.\n\nMost courses have been developed to avoid you having too many assessments at the same time, so asking for extensions can impact upon this, leaving you more work to do at the same time later in the academic year."
+  },
+  {
+    "intent": "exams_extension",
+    "question": "Could an extension push back my whole workload?",
+    "answer": "Extensions can be very helpful. However, make sure you consider the impact that delaying the submission of an assessment may have on your ability to meet other assessment deadlines.\n\nMost courses have been developed to avoid you having too many assessments at the same time, so asking for extensions can impact upon this, leaving you more work to do at the same time later in the academic year."
+  },
+
+  {
+    "intent": "exams_extension",
+    "question": "How do I access and fill in the RE1 form for an extension?",
+    "answer": "Deadline: Apply by the original coursework submission date.\nDownload the RE1 form (Word 56kB)."
+  },
+  {
+    "intent": "exams_extension",
     "question": "What\u2019s the deadline to submit the extension form?",
     "answer": "Deadline: Apply by the original coursework submission date.\nDownload the RE1 form (Word 56kB)."
   },
@@ -1415,12 +1594,12 @@
     "answer": "If your circumstances are more serious or relate to a formal exam, you need more than an additional 5 working days and/or you are not able or ready to attempt the assessment at all, you can apply for a Deferral of Assessment. This normally means handing in the assessment or sitting the exam at the next available opportunity, which will either be the following trimester or over the summer assessment period.\n\nApplications for Deferral of Assessment should be made ahead of the assessment point by completing an application including appropriate time-relevant third-party evidence via the \u2018Apply for Extenuating Circumstances and Deferrals\u2019 tile on the eStudent records portal.\n\nWhere submitting before the assessment deadline is not possible, an application for Deferral of Assessment and associated supporting evidence may be accepted up to 5 working days after the assessment point - see Extenuating Circumstances, Extensions and Deferrals Regulations EC3.2 (PDF, 250kB)."
   },
   {
-    "intent": "exam_deferral_timing",
+    "intent": "exam_deferral",
     "question": "If I can\u2019t complete an assessment, can I defer it?",
     "answer": "If your circumstances are more serious or relate to a formal exam, you need more than an additional 5 working days and/or you are not able or ready to attempt the assessment at all, you can apply for a Deferral of Assessment. This normally means handing in the assessment or sitting the exam at the next available opportunity, which will either be the following trimester or over the summer assessment period.\n\nApplications for Deferral of Assessment should be made ahead of the assessment point by completing an application including appropriate time-relevant third-party evidence via the \u2018Apply for Extenuating Circumstances and Deferrals\u2019 tile on the eStudent records portal.\n\nWhere submitting before the assessment deadline is not possible, an application for Deferral of Assessment and associated supporting evidence may be accepted up to 5 working days after the assessment point - see Extenuating Circumstances, Extensions and Deferrals Regulations EC3.2 (PDF, 250kB)."
   },
   {
-    "intent": "exam_deferral_timing",
+    "intent": "exam_deferral",
     "question": "How much time do I have to apply for a deferral after the assessment?",
     "answer": "If your circumstances are more serious or relate to a formal exam, you need more than an additional 5 working days and/or you are not able or ready to attempt the assessment at all, you can apply for a Deferral of Assessment. This normally means handing in the assessment or sitting the exam at the next available opportunity, which will either be the following trimester or over the summer assessment period.\n\nApplications for Deferral of Assessment should be made ahead of the assessment point by completing an application including appropriate time-relevant third-party evidence via the \u2018Apply for Extenuating Circumstances and Deferrals\u2019 tile on the eStudent records portal.\n\nWhere submitting before the assessment deadline is not possible, an application for Deferral of Assessment and associated supporting evidence may be accepted up to 5 working days after the assessment point - see Extenuating Circumstances, Extensions and Deferrals Regulations EC3.2 (PDF, 250kB)."
   },
@@ -1448,6 +1627,106 @@
     "intent": "exam_deferral",
     "question": "What are the consequences of deferring an exam or coursework?",
     "answer": "The decision to defer assessment could affect whether you can carry on to the next year of your studies, so you should always seek advice from your Programme Leader, Personal Development Tutor and/or ENSA Advice before applying for a deferral.\n\nIf you apply for a deferral of an assessment you are in effect 'voiding' the attempt, which means you will not receive a mark and you will need to sit the assessment at a future point (as a first or second attempt).\n\nIf you requested a deferral and your circumstances are deemed valid, and then you continue to undertake the assessment, your mark/grade will not count even if it was a pass. This is because you have indicated you were not fully 'fit to sit' and could not therefore perform to the best of your ability.\n\nIf you defer a Trimester 1 assessment, the next opportunity to sit the assessment may be in the summer reassessment diet.\n\nInformation for international students:\nIf you are a student visa student, you should be aware that there is a maximum number of opportunities that the UKVI permit students to have with regards undertaking an assessment and that a deferred assessment will still count towards this maximum number of opportunities.\n\nStudents should consult with the Visa and International Support team for guidance on their own individual situation by emailing internationalsupport@napier.ac.uk or calling 0131 455 2272."
+  },
+  {
+    "intent": "exam_deferral",
+    "question": "What happens if I choose to defer an exam or coursework?",
+    "answer": "The decision to defer assessment could affect whether you can carry on to the next year of your studies, so you should always seek advice from your Programme Leader, Personal Development Tutor and/or ENSA Advice before applying for a deferral.\n\nIf you apply for a deferral of an assessment you are in effect 'voiding' the attempt, which means you will not receive a mark and you will need to sit the assessment at a future point (as a first or second attempt).\n\nIf you requested a deferral and your circumstances are deemed valid, and then you continue to undertake the assessment, your mark/grade will not count even if it was a pass. This is because you have indicated you were not fully 'fit to sit' and could not therefore perform to the best of your ability.\n\nIf you defer a Trimester 1 assessment, the next opportunity to sit the assessment may be in the summer reassessment diet.\n\nInformation for international students:\nIf you are a student visa student, you should be aware that there is a maximum number of opportunities that the UKVI permit students to have with regards undertaking an assessment and that a deferred assessment will still count towards this maximum number of opportunities.\n\nStudents should consult with the Visa and International Support team for guidance on their own individual situation by emailing internationalsupport@napier.ac.uk or calling 0131 455 2272."
+  },
+  {
+    "intent": "exam_deferral",
+    "question": "Are there any effects on my studies if I defer an assessment?",
+    "answer": "The decision to defer assessment could affect whether you can carry on to the next year of your studies, so you should always seek advice from your Programme Leader, Personal Development Tutor and/or ENSA Advice before applying for a deferral.\n\nIf you apply for a deferral of an assessment you are in effect 'voiding' the attempt, which means you will not receive a mark and you will need to sit the assessment at a future point (as a first or second attempt).\n\nIf you requested a deferral and your circumstances are deemed valid, and then you continue to undertake the assessment, your mark/grade will not count even if it was a pass. This is because you have indicated you were not fully 'fit to sit' and could not therefore perform to the best of your ability.\n\nIf you defer a Trimester 1 assessment, the next opportunity to sit the assessment may be in the summer reassessment diet.\n\nInformation for international students:\nIf you are a student visa student, you should be aware that there is a maximum number of opportunities that the UKVI permit students to have with regards undertaking an assessment and that a deferred assessment will still count towards this maximum number of opportunities.\n\nStudents should consult with the Visa and International Support team for guidance on their own individual situation by emailing internationalsupport@napier.ac.uk or calling 0131 455 2272."
+  },
+  {
+    "intent": "exam_deferral",
+    "question": "How will deferring an assessment impact my academic progress?",
+    "answer": "The decision to defer assessment could affect whether you can carry on to the next year of your studies, so you should always seek advice from your Programme Leader, Personal Development Tutor and/or ENSA Advice before applying for a deferral.\n\nIf you apply for a deferral of an assessment you are in effect 'voiding' the attempt, which means you will not receive a mark and you will need to sit the assessment at a future point (as a first or second attempt).\n\nIf you requested a deferral and your circumstances are deemed valid, and then you continue to undertake the assessment, your mark/grade will not count even if it was a pass. This is because you have indicated you were not fully 'fit to sit' and could not therefore perform to the best of your ability.\n\nIf you defer a Trimester 1 assessment, the next opportunity to sit the assessment may be in the summer reassessment diet.\n\nInformation for international students:\nIf you are a student visa student, you should be aware that there is a maximum number of opportunities that the UKVI permit students to have with regards undertaking an assessment and that a deferred assessment will still count towards this maximum number of opportunities.\n\nStudents should consult with the Visa and International Support team for guidance on their own individual situation by emailing internationalsupport@napier.ac.uk or calling 0131 455 2272."
+  },
+  {
+    "intent": "exam_deferral",
+    "question": "Is it risky to defer my coursework or exam?",
+    "answer": "The decision to defer assessment could affect whether you can carry on to the next year of your studies, so you should always seek advice from your Programme Leader, Personal Development Tutor and/or ENSA Advice before applying for a deferral.\n\nIf you apply for a deferral of an assessment you are in effect 'voiding' the attempt, which means you will not receive a mark and you will need to sit the assessment at a future point (as a first or second attempt).\n\nIf you requested a deferral and your circumstances are deemed valid, and then you continue to undertake the assessment, your mark/grade will not count even if it was a pass. This is because you have indicated you were not fully 'fit to sit' and could not therefore perform to the best of your ability.\n\nIf you defer a Trimester 1 assessment, the next opportunity to sit the assessment may be in the summer reassessment diet.\n\nInformation for international students:\nIf you are a student visa student, you should be aware that there is a maximum number of opportunities that the UKVI permit students to have with regards undertaking an assessment and that a deferred assessment will still count towards this maximum number of opportunities.\n\nStudents should consult with the Visa and International Support team for guidance on their own individual situation by emailing internationalsupport@napier.ac.uk or calling 0131 455 2272."
+  },
+  {
+    "intent": "exam_deferral",
+    "question": "What should I consider before requesting an exam deferral?",
+    "answer": "The decision to defer assessment could affect whether you can carry on to the next year of your studies, so you should always seek advice from your Programme Leader, Personal Development Tutor and/or ENSA Advice before applying for a deferral.\n\nIf you apply for a deferral of an assessment you are in effect 'voiding' the attempt, which means you will not receive a mark and you will need to sit the assessment at a future point (as a first or second attempt).\n\nIf you requested a deferral and your circumstances are deemed valid, and then you continue to undertake the assessment, your mark/grade will not count even if it was a pass. This is because you have indicated you were not fully 'fit to sit' and could not therefore perform to the best of your ability.\n\nIf you defer a Trimester 1 assessment, the next opportunity to sit the assessment may be in the summer reassessment diet.\n\nInformation for international students:\nIf you are a student visa student, you should be aware that there is a maximum number of opportunities that the UKVI permit students to have with regards undertaking an assessment and that a deferred assessment will still count towards this maximum number of opportunities.\n\nStudents should consult with the Visa and International Support team for guidance on their own individual situation by emailing internationalsupport@napier.ac.uk or calling 0131 455 2272."
+  },
+  {
+    "intent": "exam_deferral",
+    "question": "Will deferring an exam delay my academic year?",
+    "answer": "The decision to defer assessment could affect whether you can carry on to the next year of your studies, so you should always seek advice from your Programme Leader, Personal Development Tutor and/or ENSA Advice before applying for a deferral.\n\nIf you apply for a deferral of an assessment you are in effect 'voiding' the attempt, which means you will not receive a mark and you will need to sit the assessment at a future point (as a first or second attempt).\n\nIf you requested a deferral and your circumstances are deemed valid, and then you continue to undertake the assessment, your mark/grade will not count even if it was a pass. This is because you have indicated you were not fully 'fit to sit' and could not therefore perform to the best of your ability.\n\nIf you defer a Trimester 1 assessment, the next opportunity to sit the assessment may be in the summer reassessment diet.\n\nInformation for international students:\nIf you are a student visa student, you should be aware that there is a maximum number of opportunities that the UKVI permit students to have with regards undertaking an assessment and that a deferred assessment will still count towards this maximum number of opportunities.\n\nStudents should consult with the Visa and International Support team for guidance on their own individual situation by emailing internationalsupport@napier.ac.uk or calling 0131 455 2272."
+  },
+  {
+    "intent": "exam_deferral",
+    "question": "What are the risks of deferring a test or coursework?",
+    "answer": "The decision to defer assessment could affect whether you can carry on to the next year of your studies, so you should always seek advice from your Programme Leader, Personal Development Tutor and/or ENSA Advice before applying for a deferral.\n\nIf you apply for a deferral of an assessment you are in effect 'voiding' the attempt, which means you will not receive a mark and you will need to sit the assessment at a future point (as a first or second attempt).\n\nIf you requested a deferral and your circumstances are deemed valid, and then you continue to undertake the assessment, your mark/grade will not count even if it was a pass. This is because you have indicated you were not fully 'fit to sit' and could not therefore perform to the best of your ability.\n\nIf you defer a Trimester 1 assessment, the next opportunity to sit the assessment may be in the summer reassessment diet.\n\nInformation for international students:\nIf you are a student visa student, you should be aware that there is a maximum number of opportunities that the UKVI permit students to have with regards undertaking an assessment and that a deferred assessment will still count towards this maximum number of opportunities.\n\nStudents should consult with the Visa and International Support team for guidance on their own individual situation by emailing internationalsupport@napier.ac.uk or calling 0131 455 2272."
+  },
+  {
+    "intent": "exam_deferral",
+    "question": "Can a deferral affect my visa or student status?",
+    "answer": "The decision to defer assessment could affect whether you can carry on to the next year of your studies, so you should always seek advice from your Programme Leader, Personal Development Tutor and/or ENSA Advice before applying for a deferral.\n\nIf you apply for a deferral of an assessment you are in effect 'voiding' the attempt, which means you will not receive a mark and you will need to sit the assessment at a future point (as a first or second attempt).\n\nIf you requested a deferral and your circumstances are deemed valid, and then you continue to undertake the assessment, your mark/grade will not count even if it was a pass. This is because you have indicated you were not fully 'fit to sit' and could not therefore perform to the best of your ability.\n\nIf you defer a Trimester 1 assessment, the next opportunity to sit the assessment may be in the summer reassessment diet.\n\nInformation for international students:\nIf you are a student visa student, you should be aware that there is a maximum number of opportunities that the UKVI permit students to have with regards undertaking an assessment and that a deferred assessment will still count towards this maximum number of opportunities.\n\nStudents should consult with the Visa and International Support team for guidance on their own individual situation by emailing internationalsupport@napier.ac.uk or calling 0131 455 2272."
+  },
+  {
+    "intent": "exam_deferral",
+    "question": "Do I lose an attempt if I defer an exam?",
+    "answer": "The decision to defer assessment could affect whether you can carry on to the next year of your studies, so you should always seek advice from your Programme Leader, Personal Development Tutor and/or ENSA Advice before applying for a deferral.\n\nIf you apply for a deferral of an assessment you are in effect 'voiding' the attempt, which means you will not receive a mark and you will need to sit the assessment at a future point (as a first or second attempt).\n\nIf you requested a deferral and your circumstances are deemed valid, and then you continue to undertake the assessment, your mark/grade will not count even if it was a pass. This is because you have indicated you were not fully 'fit to sit' and could not therefore perform to the best of your ability.\n\nIf you defer a Trimester 1 assessment, the next opportunity to sit the assessment may be in the summer reassessment diet.\n\nInformation for international students:\nIf you are a student visa student, you should be aware that there is a maximum number of opportunities that the UKVI permit students to have with regards undertaking an assessment and that a deferred assessment will still count towards this maximum number of opportunities.\n\nStudents should consult with the Visa and International Support team for guidance on their own individual situation by emailing internationalsupport@napier.ac.uk or calling 0131 455 2272."
+  },
+  {
+    "intent": "exam_deferral",
+    "question": "What are the rules about deferral consequences?",
+    "answer": "The decision to defer assessment could affect whether you can carry on to the next year of your studies, so you should always seek advice from your Programme Leader, Personal Development Tutor and/or ENSA Advice before applying for a deferral.\n\nIf you apply for a deferral of an assessment you are in effect 'voiding' the attempt, which means you will not receive a mark and you will need to sit the assessment at a future point (as a first or second attempt).\n\nIf you requested a deferral and your circumstances are deemed valid, and then you continue to undertake the assessment, your mark/grade will not count even if it was a pass. This is because you have indicated you were not fully 'fit to sit' and could not therefore perform to the best of your ability.\n\nIf you defer a Trimester 1 assessment, the next opportunity to sit the assessment may be in the summer reassessment diet.\n\nInformation for international students:\nIf you are a student visa student, you should be aware that there is a maximum number of opportunities that the UKVI permit students to have with regards undertaking an assessment and that a deferred assessment will still count towards this maximum number of opportunities.\n\nStudents should consult with the Visa and International Support team for guidance on their own individual situation by emailing internationalsupport@napier.ac.uk or calling 0131 455 2272."
+  },
+  {
+    "intent": "exam_deferral",
+    "question": "Where do I apply for an exam or coursework deferral?",
+    "answer": "Apply for a deferral now:\n\n- Deadline: Apply within 5 working days after the agreed submission date\n- Access the Deferral Application via the eStudent records portal\n- You will be required to attach time-relevant third-party supporting evidence to your application.\n\nFor support, please see the Student Guidance for Extenuating Circumstances page.\n\nIf you need additional help, please contact the relevant School team:\n\n- Business School Students: FitToSitECsTBS@napier.ac.uk\n- All Merchiston-based students: Merchistonecs@napier.ac.uk\n- School of Applied Sciences students: SAS.ExtCirc@napier.ac.uk\n- School of Health and Social Care students: SHSC.ExtCirc@napier.ac.uk\n- If you are studying at the Edinburgh Napier University International College (ENUIC), please contact enuic@napier.ac.uk for assistance."
+  },
+  {
+    "intent": "exam_deferral",
+    "question": "How do I go about submitting a deferral application?",
+    "answer": "Apply for a deferral now:\n\n- Deadline: Apply within 5 working days after the agreed submission date\n- Access the Deferral Application via the eStudent records portal\n- You will be required to attach time-relevant third-party supporting evidence to your application.\n\nFor support, please see the Student Guidance for Extenuating Circumstances page.\n\nIf you need additional help, please contact the relevant School team:\n\n- Business School Students: FitToSitECsTBS@napier.ac.uk\n- All Merchiston-based students: Merchistonecs@napier.ac.uk\n- School of Applied Sciences students: SAS.ExtCirc@napier.ac.uk\n- School of Health and Social Care students: SHSC.ExtCirc@napier.ac.uk\n- If you are studying at the Edinburgh Napier University International College (ENUIC), please contact enuic@napier.ac.uk for assistance."
+  },
+  {
+    "intent": "exam_deferral",
+    "question": "What\u2019s the process for deferring an assessment?",
+    "answer": "Apply for a deferral now:\n\n- Deadline: Apply within 5 working days after the agreed submission date\n- Access the Deferral Application via the eStudent records portal\n- You will be required to attach time-relevant third-party supporting evidence to your application.\n\nFor support, please see the Student Guidance for Extenuating Circumstances page.\n\nIf you need additional help, please contact the relevant School team:\n\n- Business School Students: FitToSitECsTBS@napier.ac.uk\n- All Merchiston-based students: Merchistonecs@napier.ac.uk\n- School of Applied Sciences students: SAS.ExtCirc@napier.ac.uk\n- School of Health and Social Care students: SHSC.ExtCirc@napier.ac.uk\n- If you are studying at the Edinburgh Napier University International College (ENUIC), please contact enuic@napier.ac.uk for assistance."
+  },
+  {
+    "intent": "exam_deferral",
+    "question": "Where can I find the deferral application form?",
+    "answer": "Apply for a deferral now:\n\n- Deadline: Apply within 5 working days after the agreed submission date\n- Access the Deferral Application via the eStudent records portal\n- You will be required to attach time-relevant third-party supporting evidence to your application.\n\nFor support, please see the Student Guidance for Extenuating Circumstances page.\n\nIf you need additional help, please contact the relevant School team:\n\n- Business School Students: FitToSitECsTBS@napier.ac.uk\n- All Merchiston-based students: Merchistonecs@napier.ac.uk\n- School of Applied Sciences students: SAS.ExtCirc@napier.ac.uk\n- School of Health and Social Care students: SHSC.ExtCirc@napier.ac.uk\n- If you are studying at the Edinburgh Napier University International College (ENUIC), please contact enuic@napier.ac.uk for assistance."
+  },
+  {
+    "intent": "exam_deferral",
+    "question": "How should I request a deferral with supporting documents?",
+    "answer": "Apply for a deferral now:\n\n- Deadline: Apply within 5 working days after the agreed submission date\n- Access the Deferral Application via the eStudent records portal\n- You will be required to attach time-relevant third-party supporting evidence to your application.\n\nFor support, please see the Student Guidance for Extenuating Circumstances page.\n\nIf you need additional help, please contact the relevant School team:\n\n- Business School Students: FitToSitECsTBS@napier.ac.uk\n- All Merchiston-based students: Merchistonecs@napier.ac.uk\n- School of Applied Sciences students: SAS.ExtCirc@napier.ac.uk\n- School of Health and Social Care students: SHSC.ExtCirc@napier.ac.uk\n- If you are studying at the Edinburgh Napier University International College (ENUIC), please contact enuic@napier.ac.uk for assistance."
+  },
+  {
+    "intent": "exam_deferral",
+    "question": "What evidence do I need to submit for an exam deferral?",
+    "answer": "Apply for a deferral now:\n\n- Deadline: Apply within 5 working days after the agreed submission date\n- Access the Deferral Application via the eStudent records portal\n- You will be required to attach time-relevant third-party supporting evidence to your application.\n\nFor support, please see the Student Guidance for Extenuating Circumstances page.\n\nIf you need additional help, please contact the relevant School team:\n\n- Business School Students: FitToSitECsTBS@napier.ac.uk\n- All Merchiston-based students: Merchistonecs@napier.ac.uk\n- School of Applied Sciences students: SAS.ExtCirc@napier.ac.uk\n- School of Health and Social Care students: SHSC.ExtCirc@napier.ac.uk\n- If you are studying at the Edinburgh Napier University International College (ENUIC), please contact enuic@napier.ac.uk for assistance."
+  },
+  {
+    "intent": "exam_deferral",
+    "question": "Who do I contact for help with a deferral request?",
+    "answer": "Apply for a deferral now:\n\n- Deadline: Apply within 5 working days after the agreed submission date\n- Access the Deferral Application via the eStudent records portal\n- You will be required to attach time-relevant third-party supporting evidence to your application.\n\nFor support, please see the Student Guidance for Extenuating Circumstances page.\n\nIf you need additional help, please contact the relevant School team:\n\n- Business School Students: FitToSitECsTBS@napier.ac.uk\n- All Merchiston-based students: Merchistonecs@napier.ac.uk\n- School of Applied Sciences students: SAS.ExtCirc@napier.ac.uk\n- School of Health and Social Care students: SHSC.ExtCirc@napier.ac.uk\n- If you are studying at the Edinburgh Napier University International College (ENUIC), please contact enuic@napier.ac.uk for assistance."
+  },
+  {
+    "intent": "exam_deferral",
+    "question": "Can I request a deferral through eStudent Records?",
+    "answer": "Apply for a deferral now:\n\n- Deadline: Apply within 5 working days after the agreed submission date\n- Access the Deferral Application via the eStudent records portal\n- You will be required to attach time-relevant third-party supporting evidence to your application.\n\nFor support, please see the Student Guidance for Extenuating Circumstances page.\n\nIf you need additional help, please contact the relevant School team:\n\n- Business School Students: FitToSitECsTBS@napier.ac.uk\n- All Merchiston-based students: Merchistonecs@napier.ac.uk\n- School of Applied Sciences students: SAS.ExtCirc@napier.ac.uk\n- School of Health and Social Care students: SHSC.ExtCirc@napier.ac.uk\n- If you are studying at the Edinburgh Napier University International College (ENUIC), please contact enuic@napier.ac.uk for assistance."
+  },
+  {
+    "intent": "exam_deferral",
+    "question": "How quickly must I apply after missing an assessment?",
+    "answer": "Apply for a deferral now:\n\n- Deadline: Apply within 5 working days after the agreed submission date\n- Access the Deferral Application via the eStudent records portal\n- You will be required to attach time-relevant third-party supporting evidence to your application.\n\nFor support, please see the Student Guidance for Extenuating Circumstances page.\n\nIf you need additional help, please contact the relevant School team:\n\n- Business School Students: FitToSitECsTBS@napier.ac.uk\n- All Merchiston-based students: Merchistonecs@napier.ac.uk\n- School of Applied Sciences students: SAS.ExtCirc@napier.ac.uk\n- School of Health and Social Care students: SHSC.ExtCirc@napier.ac.uk\n- If you are studying at the Edinburgh Napier University International College (ENUIC), please contact enuic@napier.ac.uk for assistance."
+  },
+  {
+    "intent": "exam_deferral",
+    "question": "How to correctly submit a deferral with valid evidence?",
+    "answer": "Apply for a deferral now:\n\n- Deadline: Apply within 5 working days after the agreed submission date\n- Access the Deferral Application via the eStudent records portal\n- You will be required to attach time-relevant third-party supporting evidence to your application.\n\nFor support, please see the Student Guidance for Extenuating Circumstances page.\n\nIf you need additional help, please contact the relevant School team:\n\n- Business School Students: FitToSitECsTBS@napier.ac.uk\n- All Merchiston-based students: Merchistonecs@napier.ac.uk\n- School of Applied Sciences students: SAS.ExtCirc@napier.ac.uk\n- School of Health and Social Care students: SHSC.ExtCirc@napier.ac.uk\n- If you are studying at the Edinburgh Napier University International College (ENUIC), please contact enuic@napier.ac.uk for assistance."
   },
   {
     "intent": "exam_deferral",
@@ -1749,6 +2028,58 @@
     "question": "How do I reach out to get help for issues affecting my assessments?",
     "answer": "If you are experiencing ill health (this includes any mental health issues) or personal problems that are impacting your studies, please tell us about them as soon as possible. [...]"
   },
+  
+  {
+    "intent": "online_exam",
+    "question": "Can I get a laptop from the university to complete my online exam?",
+    "answer": "If you have an online exam, you will require access to a suitable device and reliable internet connection as well as a good environment to undertake your exam. If you do not have the necessary equipment, you can book space on campus via Resource Booker. Alternatively, the University has a laptop loan service where you can organise to borrow a laptop from one of our self-service lockers."
+  },
+  {
+    "intent": "online_exam",
+    "question": "Does the university provide any tech support for students taking online exams?",
+    "answer": "If you have an online exam, you will require access to a suitable device and reliable internet connection as well as a good environment to undertake your exam. If you do not have the necessary equipment, you can book space on campus via Resource Booker. Alternatively, the University has a laptop loan service where you can organise to borrow a laptop from one of our self-service lockers."
+  },
+  {
+    "intent": "online_exam",
+    "question": "Who can I contact if I need equipment for online assessment?",
+    "answer": "If you have an online exam, you will require access to a suitable device and reliable internet connection as well as a good environment to undertake your exam. If you do not have the necessary equipment, you can book space on campus via Resource Booker. Alternatively, the University has a laptop loan service where you can organise to borrow a laptop from one of our self-service lockers."
+  },
+  {
+    "intent": "online_exam",
+    "question": "Is help available if I lack a device or internet for online exams?",
+    "answer": "If you have an online exam, you will require access to a suitable device and reliable internet connection as well as a good environment to undertake your exam. If you do not have the necessary equipment, you can book space on campus via Resource Booker. Alternatively, the University has a laptop loan service where you can organise to borrow a laptop from one of our self-service lockers."
+  },
+  {
+    "intent": "online_exam",
+    "question": "Can I use university facilities if I’m unable to take the exam from home?",
+    "answer": "If you have an online exam, you will require access to a suitable device and reliable internet connection as well as a good environment to undertake your exam. If you do not have the necessary equipment, you can book space on campus via Resource Booker. Alternatively, the University has a laptop loan service where you can organise to borrow a laptop from one of our self-service lockers."
+  },
+  {
+    "intent": "online_exam",
+    "question": "How long do I have to complete my online exam?",
+    "answer": "All online exams will be available via the exam server. The exam server will open for you to check your access the week before the start date of exams - you'll receive an email advising you to check. The exam server will be open for the designated duration of the exam. This includes 50% additional time to provide an inclusive approach to ensure that the requirements of those students who need additional exam time are already accommodated. It is also intended to allow sufficient time for all students to upload materials and as mitigation for any temporary network problems during the exam. The time shown on your personalised exam timetable is the correct full duration and already includes any additional time - no additional time is given on top of this. This should ensure all students have sufficient time to: Complete your exam answer, Download/upload materials required, Mitigate against any temporary network issues/disturbances, Ensure students with individual learning profiles are not disadvantaged. Some exam papers will set an indicative word count to give you additional guidance on the length of answers that you should be aiming to submit. In all exams you should read the instructions carefully and ensure you understand what is being asked before you start to answer questions. Please allow yourself plenty of time to deal with any technical interface issues - the extended time should be used primarily by you to manage such matters if required, so you should aim to be working on your answers for designated duration of the exam as noted on the front cover of your exam question paper. No additional time can be added, and late submissions cannot be accepted. For more information, view the online video guide for student exams."
+  },
+  {
+    "intent": "online_exam",
+    "question": "What’s the official policy for timing in online exams?",
+    "answer": "All online exams will be available via the exam server. The exam server will open for you to check your access the week before the start date of exams - you'll receive an email advising you to check. The exam server will be open for the designated duration of the exam. This includes 50% additional time to provide an inclusive approach to ensure that the requirements of those students who need additional exam time are already accommodated. It is also intended to allow sufficient time for all students to upload materials and as mitigation for any temporary network problems during the exam. The time shown on your personalised exam timetable is the correct full duration and already includes any additional time - no additional time is given on top of this. This should ensure all students have sufficient time to: Complete your exam answer, Download/upload materials required, Mitigate against any temporary network issues/disturbances, Ensure students with individual learning profiles are not disadvantaged. Some exam papers will set an indicative word count to give you additional guidance on the length of answers that you should be aiming to submit. In all exams you should read the instructions carefully and ensure you understand what is being asked before you start to answer questions. Please allow yourself plenty of time to deal with any technical interface issues - the extended time should be used primarily by you to manage such matters if required, so you should aim to be working on your answers for designated duration of the exam as noted on the front cover of your exam question paper. No additional time can be added, and late submissions cannot be accepted. For more information, view the online video guide for student exams."
+  },
+  {
+    "intent": "online_exam",
+    "question": "Do students get extra time during online exams automatically?",
+    "answer": "All online exams will be available via the exam server. The exam server will open for you to check your access the week before the start date of exams - you'll receive an email advising you to check. The exam server will be open for the designated duration of the exam. This includes 50% additional time to provide an inclusive approach to ensure that the requirements of those students who need additional exam time are already accommodated. It is also intended to allow sufficient time for all students to upload materials and as mitigation for any temporary network problems during the exam. The time shown on your personalised exam timetable is the correct full duration and already includes any additional time - no additional time is given on top of this. This should ensure all students have sufficient time to: Complete your exam answer, Download/upload materials required, Mitigate against any temporary network issues/disturbances, Ensure students with individual learning profiles are not disadvantaged. Some exam papers will set an indicative word count to give you additional guidance on the length of answers that you should be aiming to submit. In all exams you should read the instructions carefully and ensure you understand what is being asked before you start to answer questions. Please allow yourself plenty of time to deal with any technical interface issues - the extended time should be used primarily by you to manage such matters if required, so you should aim to be working on your answers for designated duration of the exam as noted on the front cover of your exam question paper. No additional time can be added, and late submissions cannot be accepted. For more information, view the online video guide for student exams."
+  },
+  {
+    "intent": "online_exam",
+    "question": "What should I expect when taking an online exam?",
+    "answer": "All online exams will be available via the exam server. The exam server will open for you to check your access the week before the start date of exams - you'll receive an email advising you to check. The exam server will be open for the designated duration of the exam. This includes 50% additional time to provide an inclusive approach to ensure that the requirements of those students who need additional exam time are already accommodated. It is also intended to allow sufficient time for all students to upload materials and as mitigation for any temporary network problems during the exam. The time shown on your personalised exam timetable is the correct full duration and already includes any additional time - no additional time is given on top of this. This should ensure all students have sufficient time to: Complete your exam answer, Download/upload materials required, Mitigate against any temporary network issues/disturbances, Ensure students with individual learning profiles are not disadvantaged. Some exam papers will set an indicative word count to give you additional guidance on the length of answers that you should be aiming to submit. In all exams you should read the instructions carefully and ensure you understand what is being asked before you start to answer questions. Please allow yourself plenty of time to deal with any technical interface issues - the extended time should be used primarily by you to manage such matters if required, so you should aim to be working on your answers for designated duration of the exam as noted on the front cover of your exam question paper. No additional time can be added, and late submissions cannot be accepted. For more information, view the online video guide for student exams."
+  },
+  {
+    "intent": "online_exam",
+    "question": "Is there a way to check my access before the online exam begins?",
+    "answer": "All online exams will be available via the exam server. The exam server will open for you to check your access the week before the start date of exams - you'll receive an email advising you to check. The exam server will be open for the designated duration of the exam. This includes 50% additional time to provide an inclusive approach to ensure that the requirements of those students who need additional exam time are already accommodated. It is also intended to allow sufficient time for all students to upload materials and as mitigation for any temporary network problems during the exam. The time shown on your personalised exam timetable is the correct full duration and already includes any additional time - no additional time is given on top of this. This should ensure all students have sufficient time to: Complete your exam answer, Download/upload materials required, Mitigate against any temporary network issues/disturbances, Ensure students with individual learning profiles are not disadvantaged. Some exam papers will set an indicative word count to give you additional guidance on the length of answers that you should be aiming to submit. In all exams you should read the instructions carefully and ensure you understand what is being asked before you start to answer questions. Please allow yourself plenty of time to deal with any technical interface issues - the extended time should be used primarily by you to manage such matters if required, so you should aim to be working on your answers for designated duration of the exam as noted on the front cover of your exam question paper. No additional time can be added, and late submissions cannot be accepted. For more information, view the online video guide for student exams."
+  },
+
   {
     "intent": "online_exam",
     "question": "Do I need any specific setup for online exams?",
@@ -1774,6 +2105,83 @@
     "question": "Can I borrow equipment from the university for online exams?",
     "answer": "If you have an online exam, you will require access to a suitable device and reliable internet connection as well as a good environment to undertake your exam. If you do not have the necessary equipment, you can book space on campus via Resource Booker. Alternatively, the University has a laptop loan service where you can organise to borrow a laptop from one of our self-service lockers."
   },
+  
+  {
+    "intent": "online_exam",
+    "question": "Is it possible to borrow a device from the university for an online exam?",
+    "answer": "If you have an online exam, you will require access to a suitable device and reliable internet connection as well as a good environment to undertake your exam. If you do not have the necessary equipment, you can book space on campus via Resource Booker. Alternatively, the University has a laptop loan service where you can organise to borrow a laptop from one of our self-service lockers."
+  },
+  {
+    "intent": "online_exam",
+    "question": "Can I loan a laptop for online exams at the university?",
+    "answer": "If you have an online exam, you will require access to a suitable device and reliable internet connection as well as a good environment to undertake your exam. If you do not have the necessary equipment, you can book space on campus via Resource Booker. Alternatively, the University has a laptop loan service where you can organise to borrow a laptop from one of our self-service lockers."
+  },
+  {
+    "intent": "online_exam",
+    "question": "Does the university offer equipment for online assessments?",
+    "answer": "If you have an online exam, you will require access to a suitable device and reliable internet connection as well as a good environment to undertake your exam. If you do not have the necessary equipment, you can book space on campus via Resource Booker. Alternatively, the University has a laptop loan service where you can organise to borrow a laptop from one of our self-service lockers."
+  },
+  {
+    "intent": "online_exam",
+    "question": "Where can I get a computer or internet access for my online exam?",
+    "answer": "If you have an online exam, you will require access to a suitable device and reliable internet connection as well as a good environment to undertake your exam. If you do not have the necessary equipment, you can book space on campus via Resource Booker. Alternatively, the University has a laptop loan service where you can organise to borrow a laptop from one of our self-service lockers."
+  },
+  {
+    "intent": "online_exam",
+    "question": "What can I do if I don’t have a device for an online exam?",
+    "answer": "If you have an online exam, you will require access to a suitable device and reliable internet connection as well as a good environment to undertake your exam. If you do not have the necessary equipment, you can book space on campus via Resource Booker. Alternatively, the University has a laptop loan service where you can organise to borrow a laptop from one of our self-service lockers."
+  },
+  {
+    "intent": "online_exam",
+    "question": "Can I use university resources for my online exam setup?",
+    "answer": "If you have an online exam, you will require access to a suitable device and reliable internet connection as well as a good environment to undertake your exam. If you do not have the necessary equipment, you can book space on campus via Resource Booker. Alternatively, the University has a laptop loan service where you can organise to borrow a laptop from one of our self-service lockers."
+  },
+  {
+    "intent": "online_exam",
+    "question": "How do I arrange equipment support for an online test?",
+    "answer": "If you have an online exam, you will require access to a suitable device and reliable internet connection as well as a good environment to undertake your exam. If you do not have the necessary equipment, you can book space on campus via Resource Booker. Alternatively, the University has a laptop loan service where you can organise to borrow a laptop from one of our self-service lockers."
+  },
+  {
+    "intent": "online_exam",
+    "question": "Does the university help with laptop or internet access for remote exams?",
+    "answer": "If you have an online exam, you will require access to a suitable device and reliable internet connection as well as a good environment to undertake your exam. If you do not have the necessary equipment, you can book space on campus via Resource Booker. Alternatively, the University has a laptop loan service where you can organise to borrow a laptop from one of our self-service lockers."
+  },
+  {
+    "intent": "online_exam",
+    "question": "Am I allowed to borrow tech for online exams from the university?",
+    "answer": "If you have an online exam, you will require access to a suitable device and reliable internet connection as well as a good environment to undertake your exam. If you do not have the necessary equipment, you can book space on campus via Resource Booker. Alternatively, the University has a laptop loan service where you can organise to borrow a laptop from one of our self-service lockers."
+  },
+  {
+    "intent": "online_exam",
+    "question": "Is there a laptop loan system for students doing online exams?",
+    "answer": "If you have an online exam, you will require access to a suitable device and reliable internet connection as well as a good environment to undertake your exam. If you do not have the necessary equipment, you can book space on campus via Resource Booker. Alternatively, the University has a laptop loan service where you can organise to borrow a laptop from one of our self-service lockers."
+  },
+  {
+    "intent": "online_exam",
+    "question": "How do I take an online exam at the university?",
+    "answer": "All online exams will be available via the exam server. The exam server will open for you to check your access the week before the start date of exams - you'll receive an email advising you to check. The exam server will be open for the designated duration of the exam. This includes 50% additional time to provide an inclusive approach to ensure that the requirements of those students who need additional exam time are already accommodated. It is also intended to allow sufficient time for all students to upload materials and as mitigation for any temporary network problems during the exam. The time shown on your personalised exam timetable is the correct full duration and already includes any additional time - no additional time is given on top of this. This should ensure all students have sufficient time to: Complete your exam answer, Download/upload materials required, Mitigate against any temporary network issues/disturbances, Ensure students with individual learning profiles are not disadvantaged. Some exam papers will set an indicative word count to give you additional guidance on the length of answers that you should be aiming to submit. In all exams you should read the instructions carefully and ensure you understand what is being asked before you start to answer questions. Please allow yourself plenty of time to deal with any technical interface issues - the extended time should be used primarily by you to manage such matters if required, so you should aim to be working on your answers for designated duration of the exam as noted on the front cover of your exam question paper. No additional time can be added, and late submissions cannot be accepted. For more information, view the online video guide for student exams."
+  },
+  {
+    "intent": "online_exam",
+    "question": "What steps are involved in completing an online assessment?",
+    "answer": "All online exams will be available via the exam server. The exam server will open for you to check your access the week before the start date of exams - you'll receive an email advising you to check. The exam server will be open for the designated duration of the exam. This includes 50% additional time to provide an inclusive approach to ensure that the requirements of those students who need additional exam time are already accommodated. It is also intended to allow sufficient time for all students to upload materials and as mitigation for any temporary network problems during the exam. The time shown on your personalised exam timetable is the correct full duration and already includes any additional time - no additional time is given on top of this. This should ensure all students have sufficient time to: Complete your exam answer, Download/upload materials required, Mitigate against any temporary network issues/disturbances, Ensure students with individual learning profiles are not disadvantaged. Some exam papers will set an indicative word count to give you additional guidance on the length of answers that you should be aiming to submit. In all exams you should read the instructions carefully and ensure you understand what is being asked before you start to answer questions. Please allow yourself plenty of time to deal with any technical interface issues - the extended time should be used primarily by you to manage such matters if required, so you should aim to be working on your answers for designated duration of the exam as noted on the front cover of your exam question paper. No additional time can be added, and late submissions cannot be accepted. For more information, view the online video guide for student exams."
+  },
+  {
+    "intent": "online_exam",
+    "question": "Can you explain how the online exam system works?",
+    "answer": "All online exams will be available via the exam server. The exam server will open for you to check your access the week before the start date of exams - you'll receive an email advising you to check. The exam server will be open for the designated duration of the exam. This includes 50% additional time to provide an inclusive approach to ensure that the requirements of those students who need additional exam time are already accommodated. It is also intended to allow sufficient time for all students to upload materials and as mitigation for any temporary network problems during the exam. The time shown on your personalised exam timetable is the correct full duration and already includes any additional time - no additional time is given on top of this. This should ensure all students have sufficient time to: Complete your exam answer, Download/upload materials required, Mitigate against any temporary network issues/disturbances, Ensure students with individual learning profiles are not disadvantaged. Some exam papers will set an indicative word count to give you additional guidance on the length of answers that you should be aiming to submit. In all exams you should read the instructions carefully and ensure you understand what is being asked before you start to answer questions. Please allow yourself plenty of time to deal with any technical interface issues - the extended time should be used primarily by you to manage such matters if required, so you should aim to be working on your answers for designated duration of the exam as noted on the front cover of your exam question paper. No additional time can be added, and late submissions cannot be accepted. For more information, view the online video guide for student exams."
+  },
+  {
+    "intent": "online_exam",
+    "question": "What do I need to know before sitting an online exam?",
+    "answer": "All online exams will be available via the exam server. The exam server will open for you to check your access the week before the start date of exams - you'll receive an email advising you to check. The exam server will be open for the designated duration of the exam. This includes 50% additional time to provide an inclusive approach to ensure that the requirements of those students who need additional exam time are already accommodated. It is also intended to allow sufficient time for all students to upload materials and as mitigation for any temporary network problems during the exam. The time shown on your personalised exam timetable is the correct full duration and already includes any additional time - no additional time is given on top of this. This should ensure all students have sufficient time to: Complete your exam answer, Download/upload materials required, Mitigate against any temporary network issues/disturbances, Ensure students with individual learning profiles are not disadvantaged. Some exam papers will set an indicative word count to give you additional guidance on the length of answers that you should be aiming to submit. In all exams you should read the instructions carefully and ensure you understand what is being asked before you start to answer questions. Please allow yourself plenty of time to deal with any technical interface issues - the extended time should be used primarily by you to manage such matters if required, so you should aim to be working on your answers for designated duration of the exam as noted on the front cover of your exam question paper. No additional time can be added, and late submissions cannot be accepted. For more information, view the online video guide for student exams."
+  },
+  {
+    "intent": "online_exam",
+    "question": "Is there a guide for taking exams online?",
+    "answer": "All online exams will be available via the exam server. The exam server will open for you to check your access the week before the start date of exams - you'll receive an email advising you to check. The exam server will be open for the designated duration of the exam. This includes 50% additional time to provide an inclusive approach to ensure that the requirements of those students who need additional exam time are already accommodated. It is also intended to allow sufficient time for all students to upload materials and as mitigation for any temporary network problems during the exam. The time shown on your personalised exam timetable is the correct full duration and already includes any additional time - no additional time is given on top of this. This should ensure all students have sufficient time to: Complete your exam answer, Download/upload materials required, Mitigate against any temporary network issues/disturbances, Ensure students with individual learning profiles are not disadvantaged. Some exam papers will set an indicative word count to give you additional guidance on the length of answers that you should be aiming to submit. In all exams you should read the instructions carefully and ensure you understand what is being asked before you start to answer questions. Please allow yourself plenty of time to deal with any technical interface issues - the extended time should be used primarily by you to manage such matters if required, so you should aim to be working on your answers for designated duration of the exam as noted on the front cover of your exam question paper. No additional time can be added, and late submissions cannot be accepted. For more information, view the online video guide for student exams."
+  },
+
   {
     "intent": "online_exam",
     "question": "What is the process of taking an online exam?",
@@ -1820,62 +2228,62 @@
     "answer": "There is a facility on the exam server so that you can raise questions, which academic staff can then address in as timely a manner as they can. If you have any technical issues, please contact exams@napier.ac.uk."
   },
   {
-    "intent": "exam_instructions",
+    "intent": "exams",
     "question": "What rules must I follow during an on-campus exam?",
     "answer": "For each centrally timetabled exam which you take on campus you will be asked to sign the Instructions to Students form. This form will confirm that you understand what is expected of you whilst undertaking a university exam. You will also be asked to declare your self fit to sit the exam and able to complete the exam to the best of your abilities. Please refer to Fit to Sit and Extenuating Circumstances pages.\n\nThis exam is being conducted under the regulations of the University and those of the external examining body (where appropriate). Once the exam has started, you may NOT leave the exam room until a period of one hour has elapsed from the start of the exam. If you do, you will be deemed to have withdrawn from the exam and your script book will not be marked. Communication between students or any other irregular practice is not allowed once exam question papers have been issued. This instruction will be enforced during the exam and includes any reading time specified. No unauthorised material may be brought into the exam room. Check that you have no material which might later be construed as an aid in the exam. The invigilator will instruct you regarding the removal of any material which is unauthorised such as notebooks, textbooks, mobile phones/smart watches etc. In a case where the invigilator has any doubt about whether you may have infringed the exam regulations, the invigilator will remove your script book and any unauthorised material. You will then be issued with a new script book and instructed to continue with the exam from the point at which you were interrupted. An investigation will follow in due course after the exam has concluded.\n\nStudents are advised that programmable calculators may be used in appropriate exams provided that the memory/storage capability has been cleared prior to the start of the exam and the examiner has approved the use of programmable calculators. Sharing calculators is NOT permitted. The use of mobile phones/smart watches as calculators is NOT permitted. If you forget your calculator, please be advised that the Exam Office cannot provide a calculator.\n\nDo not leave your seat during the exam. Attract the invigilator\u2019s attention by raising your hand. The invigilator will come to you. If you require a toilet break, please attract the invigilator\u2019s attention by raising your hand.\n\nAll students should produce an Edinburgh Napier Student Card, in order to gain entry to the exam room, which should be placed on your desk throughout the exam. Please be aware that you can also use the digital version of your Student Card available via the Edinburgh Napier App. Students must read the instructions on the front of the exam question paper before commencing work.\n\nThe consumption of food and drink, other than bottled water, is not permitted in the exam room with the exception of students with an agreed Additional Adjustment. All electronic devices including mobile phones, smart watches etc. must be switched off and placed in the bag provided and left on the student\u2019s desk during the exam and may not be taken out of the exam room until the end of the exam.\n\nExam question papers must not be removed from the exam room during the exam. All rough work must be done in the exam script books and subsequently struck through if it is not intended for the examiner\u2019s attention. You must hand in all script books at the close of the exam including any blank script books. The exam script books are the property of Edinburgh Napier University and must not be removed from the exam room. Students must complete the exam script books in ink, unless otherwise stated.\n\nIf you finish more than fifteen minutes before the end of the exam, raise your hand to attract the attention of the invigilator who will come to you to collect your script books. Students finishing within fifteen minutes of the end of the exam will not be allowed to leave the room until the end of the exam.\n\nAt the end of the exam, remain in your seat until the invigilator has collected your script books from you. Script books will be anonymously marked. Please ensure that your Registration Number appears on EACH script book and that you have followed the instruction on the cover of the script book.\n\nIf you become ill during an exam to such an extent that you are unable to continue with the exam, you must draw this to the attention of an invigilator immediately for further advice.\n\nIf you feel that your performance is affected during this exam by factors beyond your control, e.g. external noise or other factors, please inform your invigilator and after the exam is complete contact your school office within two working days for further advice.\n\nAny action contrary to these instructions may lead to disciplinary action being taken by the University."
   },
   {
-    "intent": "exam_instructions",
+    "intent": "exams",
     "question": "What guidelines should students follow during an in-person university exam?",
     "answer": "For each centrally timetabled exam which you take on campus you will be asked to sign the Instructions to Students form. This form will confirm that you understand what is expected of you whilst undertaking a university exam. You will also be asked to declare yourself fit to sit the exam and able to complete the exam to the best of your abilities. Please refer to Fit to Sit and Extenuating Circumstances pages.\n\nThis exam is being conducted under the regulations of the University and those of the external examining body (where appropriate). Once the exam has started, you may NOT leave the exam room until a period of one hour has elapsed from the start of the exam. If you do, you will be deemed to have withdrawn from the exam and your script book will not be marked.\n\nCommunication between students or any other irregular practice is not allowed once exam question papers have been issued. This instruction will be enforced during the exam and includes any reading time specified. No unauthorised material may be brought into the exam room. Check that you have no material which might later be construed as an aid in the exam. The invigilator will instruct you regarding the removal of any material which is unauthorised such as notebooks, textbooks, mobile phones/smart watches etc. In a case where the invigilator has any doubt about whether you may have infringed the exam regulations, the invigilator will remove your script book and any unauthorised material. You will then be issued with a new script book and instructed to continue with the exam from the point at which you were interrupted. An investigation will follow in due course after the exam has concluded.\n\nStudents are advised that programmable calculators may be used in appropriate exams provided that the memory/storage capability has been cleared prior to the start of the exam and the examiner has approved the use of programmable calculators. Sharing calculators is NOT permitted. The use of mobile phones/smart watches as calculators is NOT permitted. If you forget your calculator, please be advised that the Exam Office cannot provide a calculator.\n\nDo not leave your seat during the exam. Attract the invigilator\u2019s attention by raising your hand. The invigilator will come to you. If you require a toilet break, please attract the invigilator\u2019s attention by raising your hand.\n\nAll students should produce an Edinburgh Napier Student Card, in order to gain entry to the exam room, which should be placed on your desk throughout the exam. Please be aware that you can also use the digital version of your Student Card available via the Edinburgh Napier App.\n\nStudents must read the instructions on the front of the exam question paper before commencing work. The consumption of food and drink, other than bottled water, is not permitted in the exam room with the exception of students with an agreed Additional Adjustment.\n\nAll electronic devices including mobile phones, smart watches etc. must be switched off and placed in the bag provided and left on the student\u2019s desk during the exam and may not be taken out of the exam room until the end of the exam. Exam question papers must not be removed from the exam room during the exam.\n\nAll rough work must be done in the exam script books and subsequently struck through if it is not intended for the examiner\u2019s attention. You must hand in all script books at the close of the exam including any blank script books. The exam script books are the property of Edinburgh Napier University and must not be removed from the exam room. Students must complete the exam script books in ink, unless otherwise stated.\n\nIf you finish more than fifteen minutes before the end of the exam, raise your hand to attract the attention of the invigilator who will come to you to collect your script books. Students finishing within fifteen minutes of the end of the exam will not be allowed to leave the room until the end of the exam.\n\nAt the end of the exam, remain in your seat until the invigilator has collected your script books from you. Script books will be anonymously marked. Please ensure that your Registration Number appears on EACH script book and that you have followed the instruction on the cover of the script book.\n\nIf you become ill during an exam to such an extent that you are unable to continue with the exam, you must draw this to the attention of an invigilator immediately for further advice. If you feel that your performance is affected during this exam by factors beyond your control, e.g. external noise or other factors, please inform your invigilator and after the exam is complete contact your school office within two working days for further advice.\n\nAny action contrary to these instructions may lead to disciplinary action being taken by the University."
   },
   {
-    "intent": "exam_instructions",
+    "intent": "exams",
     "question": "What are the instructions and rules for taking exams on campus?",
     "answer": "For each centrally timetabled exam which you take on campus you will be asked to sign the Instructions to Students form. This form will confirm that you understand what is expected of you whilst undertaking a university exam. You will also be asked to declare yourself fit to sit the exam and able to complete the exam to the best of your abilities. Please refer to Fit to Sit and Extenuating Circumstances pages.\n\nThis exam is being conducted under the regulations of the University and those of the external examining body (where appropriate). Once the exam has started, you may NOT leave the exam room until a period of one hour has elapsed from the start of the exam. If you do, you will be deemed to have withdrawn from the exam and your script book will not be marked.\n\nCommunication between students or any other irregular practice is not allowed once exam question papers have been issued. This instruction will be enforced during the exam and includes any reading time specified. No unauthorised material may be brought into the exam room. Check that you have no material which might later be construed as an aid in the exam. The invigilator will instruct you regarding the removal of any material which is unauthorised such as notebooks, textbooks, mobile phones/smart watches etc. In a case where the invigilator has any doubt about whether you may have infringed the exam regulations, the invigilator will remove your script book and any unauthorised material. You will then be issued with a new script book and instructed to continue with the exam from the point at which you were interrupted. An investigation will follow in due course after the exam has concluded.\n\nStudents are advised that programmable calculators may be used in appropriate exams provided that the memory/storage capability has been cleared prior to the start of the exam and the examiner has approved the use of programmable calculators. Sharing calculators is NOT permitted. The use of mobile phones/smart watches as calculators is NOT permitted. If you forget your calculator, please be advised that the Exam Office cannot provide a calculator.\n\nDo not leave your seat during the exam. Attract the invigilator\u2019s attention by raising your hand. The invigilator will come to you. If you require a toilet break, please attract the invigilator\u2019s attention by raising your hand.\n\nAll students should produce an Edinburgh Napier Student Card, in order to gain entry to the exam room, which should be placed on your desk throughout the exam. Please be aware that you can also use the digital version of your Student Card available via the Edinburgh Napier App.\n\nStudents must read the instructions on the front of the exam question paper before commencing work. The consumption of food and drink, other than bottled water, is not permitted in the exam room with the exception of students with an agreed Additional Adjustment.\n\nAll electronic devices including mobile phones, smart watches etc. must be switched off and placed in the bag provided and left on the student\u2019s desk during the exam and may not be taken out of the exam room until the end of the exam. Exam question papers must not be removed from the exam room during the exam.\n\nAll rough work must be done in the exam script books and subsequently struck through if it is not intended for the examiner\u2019s attention. You must hand in all script books at the close of the exam including any blank script books. The exam script books are the property of Edinburgh Napier University and must not be removed from the exam room. Students must complete the exam script books in ink, unless otherwise stated.\n\nIf you finish more than fifteen minutes before the end of the exam, raise your hand to attract the attention of the invigilator who will come to you to collect your script books. Students finishing within fifteen minutes of the end of the exam will not be allowed to leave the room until the end of the exam.\n\nAt the end of the exam, remain in your seat until the invigilator has collected your script books from you. Script books will be anonymously marked. Please ensure that your Registration Number appears on EACH script book and that you have followed the instruction on the cover of the script book.\n\nIf you become ill during an exam to such an extent that you are unable to continue with the exam, you must draw this to the attention of an invigilator immediately for further advice. If you feel that your performance is affected during this exam by factors beyond your control, e.g. external noise or other factors, please inform your invigilator and after the exam is complete contact your school office within two working days for further advice.\n\nAny action contrary to these instructions may lead to disciplinary action being taken by the University."
   },
   {
-    "intent": "exam_instructions",
+    "intent": "exams",
     "question": "What am I expected to do when attending a university exam?",
     "answer": "For each centrally timetabled exam which you take on campus you will be asked to sign the Instructions to Students form. This form will confirm that you understand what is expected of you whilst undertaking a university exam. You will also be asked to declare yourself fit to sit the exam and able to complete the exam to the best of your abilities. Please refer to Fit to Sit and Extenuating Circumstances pages.\n\nThis exam is being conducted under the regulations of the University and those of the external examining body (where appropriate). Once the exam has started, you may NOT leave the exam room until a period of one hour has elapsed from the start of the exam. If you do, you will be deemed to have withdrawn from the exam and your script book will not be marked.\n\nCommunication between students or any other irregular practice is not allowed once exam question papers have been issued. This instruction will be enforced during the exam and includes any reading time specified. No unauthorised material may be brought into the exam room. Check that you have no material which might later be construed as an aid in the exam. The invigilator will instruct you regarding the removal of any material which is unauthorised such as notebooks, textbooks, mobile phones/smart watches etc. In a case where the invigilator has any doubt about whether you may have infringed the exam regulations, the invigilator will remove your script book and any unauthorised material. You will then be issued with a new script book and instructed to continue with the exam from the point at which you were interrupted. An investigation will follow in due course after the exam has concluded.\n\nStudents are advised that programmable calculators may be used in appropriate exams provided that the memory/storage capability has been cleared prior to the start of the exam and the examiner has approved the use of programmable calculators. Sharing calculators is NOT permitted. The use of mobile phones/smart watches as calculators is NOT permitted. If you forget your calculator, please be advised that the Exam Office cannot provide a calculator.\n\nDo not leave your seat during the exam. Attract the invigilator\u2019s attention by raising your hand. The invigilator will come to you. If you require a toilet break, please attract the invigilator\u2019s attention by raising your hand.\n\nAll students should produce an Edinburgh Napier Student Card, in order to gain entry to the exam room, which should be placed on your desk throughout the exam. Please be aware that you can also use the digital version of your Student Card available via the Edinburgh Napier App.\n\nStudents must read the instructions on the front of the exam question paper before commencing work. The consumption of food and drink, other than bottled water, is not permitted in the exam room with the exception of students with an agreed Additional Adjustment.\n\nAll electronic devices including mobile phones, smart watches etc. must be switched off and placed in the bag provided and left on the student\u2019s desk during the exam and may not be taken out of the exam room until the end of the exam. Exam question papers must not be removed from the exam room during the exam.\n\nAll rough work must be done in the exam script books and subsequently struck through if it is not intended for the examiner\u2019s attention. You must hand in all script books at the close of the exam including any blank script books. The exam script books are the property of Edinburgh Napier University and must not be removed from the exam room. Students must complete the exam script books in ink, unless otherwise stated.\n\nIf you finish more than fifteen minutes before the end of the exam, raise your hand to attract the attention of the invigilator who will come to you to collect your script books. Students finishing within fifteen minutes of the end of the exam will not be allowed to leave the room until the end of the exam.\n\nAt the end of the exam, remain in your seat until the invigilator has collected your script books from you. Script books will be anonymously marked. Please ensure that your Registration Number appears on EACH script book and that you have followed the instruction on the cover of the script book.\n\nIf you become ill during an exam to such an extent that you are unable to continue with the exam, you must draw this to the attention of an invigilator immediately for further advice. If you feel that your performance is affected during this exam by factors beyond your control, e.g. external noise or other factors, please inform your invigilator and after the exam is complete contact your school office within two working days for further advice.\n\nAny action contrary to these instructions may lead to disciplinary action being taken by the University."
   },
   {
-    "intent": "exam_instructions",
+    "intent": "exams",
     "question": "Are there specific exam room rules I should know about?",
     "answer": "For each centrally timetabled exam which you take on campus you will be asked to sign the Instructions to Students form. This form will confirm that you understand what is expected of you whilst undertaking a university exam. You will also be asked to declare yourself fit to sit the exam and able to complete the exam to the best of your abilities. Please refer to Fit to Sit and Extenuating Circumstances pages.\n\nThis exam is being conducted under the regulations of the University and those of the external examining body (where appropriate). Once the exam has started, you may NOT leave the exam room until a period of one hour has elapsed from the start of the exam. If you do, you will be deemed to have withdrawn from the exam and your script book will not be marked.\n\nCommunication between students or any other irregular practice is not allowed once exam question papers have been issued. This instruction will be enforced during the exam and includes any reading time specified. No unauthorised material may be brought into the exam room. Check that you have no material which might later be construed as an aid in the exam. The invigilator will instruct you regarding the removal of any material which is unauthorised such as notebooks, textbooks, mobile phones/smart watches etc. In a case where the invigilator has any doubt about whether you may have infringed the exam regulations, the invigilator will remove your script book and any unauthorised material. You will then be issued with a new script book and instructed to continue with the exam from the point at which you were interrupted. An investigation will follow in due course after the exam has concluded.\n\nStudents are advised that programmable calculators may be used in appropriate exams provided that the memory/storage capability has been cleared prior to the start of the exam and the examiner has approved the use of programmable calculators. Sharing calculators is NOT permitted. The use of mobile phones/smart watches as calculators is NOT permitted. If you forget your calculator, please be advised that the Exam Office cannot provide a calculator.\n\nDo not leave your seat during the exam. Attract the invigilator\u2019s attention by raising your hand. The invigilator will come to you. If you require a toilet break, please attract the invigilator\u2019s attention by raising your hand.\n\nAll students should produce an Edinburgh Napier Student Card, in order to gain entry to the exam room, which should be placed on your desk throughout the exam. Please be aware that you can also use the digital version of your Student Card available via the Edinburgh Napier App.\n\nStudents must read the instructions on the front of the exam question paper before commencing work. The consumption of food and drink, other than bottled water, is not permitted in the exam room with the exception of students with an agreed Additional Adjustment.\n\nAll electronic devices including mobile phones, smart watches etc. must be switched off and placed in the bag provided and left on the student\u2019s desk during the exam and may not be taken out of the exam room until the end of the exam. Exam question papers must not be removed from the exam room during the exam.\n\nAll rough work must be done in the exam script books and subsequently struck through if it is not intended for the examiner\u2019s attention. You must hand in all script books at the close of the exam including any blank script books. The exam script books are the property of Edinburgh Napier University and must not be removed from the exam room. Students must complete the exam script books in ink, unless otherwise stated.\n\nIf you finish more than fifteen minutes before the end of the exam, raise your hand to attract the attention of the invigilator who will come to you to collect your script books. Students finishing within fifteen minutes of the end of the exam will not be allowed to leave the room until the end of the exam.\n\nAt the end of the exam, remain in your seat until the invigilator has collected your script books from you. Script books will be anonymously marked. Please ensure that your Registration Number appears on EACH script book and that you have followed the instruction on the cover of the script book.\n\nIf you become ill during an exam to such an extent that you are unable to continue with the exam, you must draw this to the attention of an invigilator immediately for further advice. If you feel that your performance is affected during this exam by factors beyond your control, e.g. external noise or other factors, please inform your invigilator and after the exam is complete contact your school office within two working days for further advice.\n\nAny action contrary to these instructions may lead to disciplinary action being taken by the University."
   },
   {
-    "intent": "exam_instructions",
+    "intent": "exams",
     "question": "What rules and expectations should I follow during a university exam on campus?",
     "answer": "For each centrally timetabled exam which you take on campus you will be asked to sign the Instructions to Students form. This form will confirm that you understand what is expected of you whilst undertaking a university exam. You will also be asked to declare your self fit to sit the exam and able to complete the exam to the best of your abilities. Please refer to Fit to Sit and Extenuating Circumstances pages.\n\nThis exam is being conducted under the regulations of the University and those of the external examining body (where appropriate).\n\nOnce the exam has started, you may NOT leave the exam room until a period of one hour has elapsed from the start of the exam. If you do, you will be deemed to have withdrawn from the exam and your script book will not be marked.\n\nCommunication between students or any other irregular practice is not allowed once exam question papers have been issued. This instruction will be enforced during the exam and includes any reading time specified.\n\nNo unauthorised material may be brought into the exam room. Check that you have no material which might later be construed as an aid in the exam. The invigilator will instruct you regarding the removal of any material which is unauthorised such as notebooks, textbooks, mobile phones/smart watches etc. In a case where the invigilator has any doubt about whether you may have infringed the exam regulations, the invigilator will remove your script book and any unauthorised material. You will then be issued with a new script book and instructed to continue with the exam from the point at which you were interrupted. An investigation will follow in due course after the exam has concluded.\n\nStudents are advised that programmable calculators may be used in appropriate exams provided that the memory/storage capability has been cleared prior to the start of the exam and the examiner has approved the use of programmable calculators. Sharing calculators is NOT permitted. The use of mobile phones/smart watches as calculators is NOT permitted. If you forget your calculator, please be advised that the Exam Office cannot provide a calculator.\n\nDo not leave your seat during the exam. Attract the invigilator\u2019s attention by raising your hand. The invigilator will come to you. If you require a toilet break, please attract the invigilator\u2019s attention by raising your hand.\n\nAll students should produce an Edinburgh Napier Student Card, in order to gain entry to the exam room, which should be placed on your desk throughout the exam. Please be aware that you can also use the digital version of your Student Card available via the Edinburgh Napier App.\n\nStudents must read the instructions on the front of the exam question paper before commencing work.\n\nThe consumption of food and drink, other than bottled water, is not permitted in the exam room with the exception of students with an agreed Additional Adjustment.\n\nAll electronic devices including mobile phones, smart watches etc. must be switched off and placed in the bag provided and left on the student\u2019s desk during the exam and may not be taken out of the exam room until the end of the exam.\n\nExam question papers must not be removed from the exam room during the exam.\n\nAll rough work must be done in the exam script books and subsequently struck through if it is not intended for the examiner\u2019s attention. You must hand in all script books at the close of the exam including any blank script books. The exam script books are the property of Edinburgh Napier University and must not be removed from the exam room.\n\nStudents must complete the exam script books in ink, unless otherwise stated.\n\nIf you finish more than fifteen minutes before the end of the exam, raise your hand to attract the attention of the invigilator who will come to you to collect your script books. Students finishing within fifteen minutes of the end of the exam will not be allowed to leave the room until the end of the exam.\n\nAt the end of the exam, remain in your seat until the invigilator has collected your script books from you.\n\nScript books will be anonymously marked. Please ensure that your Registration Number appears on EACH script book and that you have followed the instruction on the cover of the script book.\n\nIf you become ill during an exam to such an extent that you are unable to continue with the exam, you must draw this to the attention of an invigilator immediately for further advice.\n\nIf you feel that your performance is affected during this exam by factors beyond your control, e.g. external noise or other factors, please inform your invigilator and after the exam is complete contact your school office within two working days for further advice.\n\nAny action contrary to these instructions may lead to disciplinary action being taken by the University."
   },
   {
-    "intent": "exam_instructions",
+    "intent": "exams",
     "question": "What rules and expectations should I follow during a university exam on campus?",
     "answer": "For each centrally timetabled exam which you take on campus you will be asked to sign the Instructions to Students form. This form will confirm that you understand what is expected of you whilst undertaking a university exam. You will also be asked to declare your self fit to sit the exam and able to complete the exam to the best of your abilities. Please refer to Fit to Sit and Extenuating Circumstances pages.\n\nThis exam is being conducted under the regulations of the University and those of the external examining body (where appropriate).\n\nOnce the exam has started, you may NOT leave the exam room until a period of one hour has elapsed from the start of the exam. If you do, you will be deemed to have withdrawn from the exam and your script book will not be marked.\n\nCommunication between students or any other irregular practice is not allowed once exam question papers have been issued. This instruction will be enforced during the exam and includes any reading time specified.\n\nNo unauthorised material may be brought into the exam room. Check that you have no material which might later be construed as an aid in the exam. The invigilator will instruct you regarding the removal of any material which is unauthorised such as notebooks, textbooks, mobile phones/smart watches etc. In a case where the invigilator has any doubt about whether you may have infringed the exam regulations, the invigilator will remove your script book and any unauthorised material. You will then be issued with a new script book and instructed to continue with the exam from the point at which you were interrupted. An investigation will follow in due course after the exam has concluded.\n\nStudents are advised that programmable calculators may be used in appropriate exams provided that the memory/storage capability has been cleared prior to the start of the exam and the examiner has approved the use of programmable calculators. Sharing calculators is NOT permitted. The use of mobile phones/smart watches as calculators is NOT permitted. If you forget your calculator, please be advised that the Exam Office cannot provide a calculator.\n\nDo not leave your seat during the exam. Attract the invigilator\u2019s attention by raising your hand. The invigilator will come to you. If you require a toilet break, please attract the invigilator\u2019s attention by raising your hand.\n\nAll students should produce an Edinburgh Napier Student Card, in order to gain entry to the exam room, which should be placed on your desk throughout the exam. Please be aware that you can also use the digital version of your Student Card available via the Edinburgh Napier App.\n\nStudents must read the instructions on the front of the exam question paper before commencing work.\n\nThe consumption of food and drink, other than bottled water, is not permitted in the exam room with the exception of students with an agreed Additional Adjustment.\n\nAll electronic devices including mobile phones, smart watches etc. must be switched off and placed in the bag provided and left on the student\u2019s desk during the exam and may not be taken out of the exam room until the end of the exam.\n\nExam question papers must not be removed from the exam room during the exam.\n\nAll rough work must be done in the exam script books and subsequently struck through if it is not intended for the examiner\u2019s attention. You must hand in all script books at the close of the exam including any blank script books. The exam script books are the property of Edinburgh Napier University and must not be removed from the exam room.\n\nStudents must complete the exam script books in ink, unless otherwise stated.\n\nIf you finish more than fifteen minutes before the end of the exam, raise your hand to attract the attention of the invigilator who will come to you to collect your script books. Students finishing within fifteen minutes of the end of the exam will not be allowed to leave the room until the end of the exam.\n\nAt the end of the exam, remain in your seat until the invigilator has collected your script books from you.\n\nScript books will be anonymously marked. Please ensure that your Registration Number appears on EACH script book and that you have followed the instruction on the cover of the script book.\n\nIf you become ill during an exam to such an extent that you are unable to continue with the exam, you must draw this to the attention of an invigilator immediately for further advice.\n\nIf you feel that your performance is affected during this exam by factors beyond your control, e.g. external noise or other factors, please inform your invigilator and after the exam is complete contact your school office within two working days for further advice.\n\nAny action contrary to these instructions may lead to disciplinary action being taken by the University."
   },
   {
-    "intent": "exam_instructions",
+    "intent": "exams",
     "question": "What rules and expectations should I follow during a university exam on campus?",
     "answer": "For each centrally timetabled exam which you take on campus you will be asked to sign the Instructions to Students form. This form will confirm that you understand what is expected of you whilst undertaking a university exam. You will also be asked to declare your self fit to sit the exam and able to complete the exam to the best of your abilities. Please refer to Fit to Sit and Extenuating Circumstances pages.\n\nThis exam is being conducted under the regulations of the University and those of the external examining body (where appropriate).\n\nOnce the exam has started, you may NOT leave the exam room until a period of one hour has elapsed from the start of the exam. If you do, you will be deemed to have withdrawn from the exam and your script book will not be marked.\n\nCommunication between students or any other irregular practice is not allowed once exam question papers have been issued. This instruction will be enforced during the exam and includes any reading time specified.\n\nNo unauthorised material may be brought into the exam room. Check that you have no material which might later be construed as an aid in the exam. The invigilator will instruct you regarding the removal of any material which is unauthorised such as notebooks, textbooks, mobile phones/smart watches etc. In a case where the invigilator has any doubt about whether you may have infringed the exam regulations, the invigilator will remove your script book and any unauthorised material. You will then be issued with a new script book and instructed to continue with the exam from the point at which you were interrupted. An investigation will follow in due course after the exam has concluded.\n\nStudents are advised that programmable calculators may be used in appropriate exams provided that the memory/storage capability has been cleared prior to the start of the exam and the examiner has approved the use of programmable calculators. Sharing calculators is NOT permitted. The use of mobile phones/smart watches as calculators is NOT permitted. If you forget your calculator, please be advised that the Exam Office cannot provide a calculator.\n\nDo not leave your seat during the exam. Attract the invigilator\u2019s attention by raising your hand. The invigilator will come to you. If you require a toilet break, please attract the invigilator\u2019s attention by raising your hand.\n\nAll students should produce an Edinburgh Napier Student Card, in order to gain entry to the exam room, which should be placed on your desk throughout the exam. Please be aware that you can also use the digital version of your Student Card available via the Edinburgh Napier App.\n\nStudents must read the instructions on the front of the exam question paper before commencing work.\n\nThe consumption of food and drink, other than bottled water, is not permitted in the exam room with the exception of students with an agreed Additional Adjustment.\n\nAll electronic devices including mobile phones, smart watches etc. must be switched off and placed in the bag provided and left on the student\u2019s desk during the exam and may not be taken out of the exam room until the end of the exam.\n\nExam question papers must not be removed from the exam room during the exam.\n\nAll rough work must be done in the exam script books and subsequently struck through if it is not intended for the examiner\u2019s attention. You must hand in all script books at the close of the exam including any blank script books. The exam script books are the property of Edinburgh Napier University and must not be removed from the exam room.\n\nStudents must complete the exam script books in ink, unless otherwise stated.\n\nIf you finish more than fifteen minutes before the end of the exam, raise your hand to attract the attention of the invigilator who will come to you to collect your script books. Students finishing within fifteen minutes of the end of the exam will not be allowed to leave the room until the end of the exam.\n\nAt the end of the exam, remain in your seat until the invigilator has collected your script books from you.\n\nScript books will be anonymously marked. Please ensure that your Registration Number appears on EACH script book and that you have followed the instruction on the cover of the script book.\n\nIf you become ill during an exam to such an extent that you are unable to continue with the exam, you must draw this to the attention of an invigilator immediately for further advice.\n\nIf you feel that your performance is affected during this exam by factors beyond your control, e.g. external noise or other factors, please inform your invigilator and after the exam is complete contact your school office within two working days for further advice.\n\nAny action contrary to these instructions may lead to disciplinary action being taken by the University."
   },
   {
-    "intent": "exam_instructions",
+    "intent": "exams",
     "question": "What rules and expectations should I follow during a university exam on campus?",
     "answer": "For each centrally timetabled exam which you take on campus you will be asked to sign the Instructions to Students form. This form will confirm that you understand what is expected of you whilst undertaking a university exam. You will also be asked to declare your self fit to sit the exam and able to complete the exam to the best of your abilities. Please refer to Fit to Sit and Extenuating Circumstances pages.\n\nThis exam is being conducted under the regulations of the University and those of the external examining body (where appropriate).\n\nOnce the exam has started, you may NOT leave the exam room until a period of one hour has elapsed from the start of the exam. If you do, you will be deemed to have withdrawn from the exam and your script book will not be marked.\n\nCommunication between students or any other irregular practice is not allowed once exam question papers have been issued. This instruction will be enforced during the exam and includes any reading time specified.\n\nNo unauthorised material may be brought into the exam room. Check that you have no material which might later be construed as an aid in the exam. The invigilator will instruct you regarding the removal of any material which is unauthorised such as notebooks, textbooks, mobile phones/smart watches etc. In a case where the invigilator has any doubt about whether you may have infringed the exam regulations, the invigilator will remove your script book and any unauthorised material. You will then be issued with a new script book and instructed to continue with the exam from the point at which you were interrupted. An investigation will follow in due course after the exam has concluded.\n\nStudents are advised that programmable calculators may be used in appropriate exams provided that the memory/storage capability has been cleared prior to the start of the exam and the examiner has approved the use of programmable calculators. Sharing calculators is NOT permitted. The use of mobile phones/smart watches as calculators is NOT permitted. If you forget your calculator, please be advised that the Exam Office cannot provide a calculator.\n\nDo not leave your seat during the exam. Attract the invigilator\u2019s attention by raising your hand. The invigilator will come to you. If you require a toilet break, please attract the invigilator\u2019s attention by raising your hand.\n\nAll students should produce an Edinburgh Napier Student Card, in order to gain entry to the exam room, which should be placed on your desk throughout the exam. Please be aware that you can also use the digital version of your Student Card available via the Edinburgh Napier App.\n\nStudents must read the instructions on the front of the exam question paper before commencing work.\n\nThe consumption of food and drink, other than bottled water, is not permitted in the exam room with the exception of students with an agreed Additional Adjustment.\n\nAll electronic devices including mobile phones, smart watches etc. must be switched off and placed in the bag provided and left on the student\u2019s desk during the exam and may not be taken out of the exam room until the end of the exam.\n\nExam question papers must not be removed from the exam room during the exam.\n\nAll rough work must be done in the exam script books and subsequently struck through if it is not intended for the examiner\u2019s attention. You must hand in all script books at the close of the exam including any blank script books. The exam script books are the property of Edinburgh Napier University and must not be removed from the exam room.\n\nStudents must complete the exam script books in ink, unless otherwise stated.\n\nIf you finish more than fifteen minutes before the end of the exam, raise your hand to attract the attention of the invigilator who will come to you to collect your script books. Students finishing within fifteen minutes of the end of the exam will not be allowed to leave the room until the end of the exam.\n\nAt the end of the exam, remain in your seat until the invigilator has collected your script books from you.\n\nScript books will be anonymously marked. Please ensure that your Registration Number appears on EACH script book and that you have followed the instruction on the cover of the script book.\n\nIf you become ill during an exam to such an extent that you are unable to continue with the exam, you must draw this to the attention of an invigilator immediately for further advice.\n\nIf you feel that your performance is affected during this exam by factors beyond your control, e.g. external noise or other factors, please inform your invigilator and after the exam is complete contact your school office within two working days for further advice.\n\nAny action contrary to these instructions may lead to disciplinary action being taken by the University."
   },
   {
-    "intent": "exam_instructions",
+    "intent": "exams",
     "question": "What are the official instructions I need to follow when attending an on-campus exam?",
     "answer": "For each centrally timetabled exam which you take on campus you will be asked to sign the Instructions to Students form. This form will confirm that you understand what is expected of you whilst undertaking a university exam. You will also be asked to declare yourself fit to sit the exam and able to complete the exam to the best of your abilities. Please refer to Fit to Sit and Extenuating Circumstances pages.\n\nThis exam is being conducted under the regulations of the University and those of the external examining body (where appropriate). Once the exam has started, you may NOT leave the exam room until a period of one hour has elapsed from the start of the exam. If you do, you will be deemed to have withdrawn from the exam and your script book will not be marked.\n\nCommunication between students or any other irregular practice is not allowed once exam question papers have been issued. This instruction will be enforced during the exam and includes any reading time specified. No unauthorised material may be brought into the exam room. Check that you have no material which might later be construed as an aid in the exam. The invigilator will instruct you regarding the removal of any material which is unauthorised such as notebooks, textbooks, mobile phones/smart watches etc. In a case where the invigilator has any doubt about whether you may have infringed the exam regulations, the invigilator will remove your script book and any unauthorised material. You will then be issued with a new script book and instructed to continue with the exam from the point at which you were interrupted. An investigation will follow in due course after the exam has concluded.\n\nStudents are advised that programmable calculators may be used in appropriate exams provided that the memory/storage capability has been cleared prior to the start of the exam and the examiner has approved the use of programmable calculators. Sharing calculators is NOT permitted. The use of mobile phones/smart watches as calculators is NOT permitted. If you forget your calculator, please be advised that the Exam Office cannot provide a calculator.\n\nDo not leave your seat during the exam. Attract the invigilator\u2019s attention by raising your hand. The invigilator will come to you. If you require a toilet break, please attract the invigilator\u2019s attention by raising your hand.\n\nAll students should produce an Edinburgh Napier Student Card, in order to gain entry to the exam room, which should be placed on your desk throughout the exam. Please be aware that you can also use the digital version of your Student Card available via the Edinburgh Napier App.\n\nStudents must read the instructions on the front of the exam question paper before commencing work. The consumption of food and drink, other than bottled water, is not permitted in the exam room with the exception of students with an agreed Additional Adjustment.\n\nAll electronic devices including mobile phones, smart watches etc. must be switched off and placed in the bag provided and left on the student\u2019s desk during the exam and may not be taken out of the exam room until the end of the exam. Exam question papers must not be removed from the exam room during the exam.\n\nAll rough work must be done in the exam script books and subsequently struck through if it is not intended for the examiner\u2019s attention. You must hand in all script books at the close of the exam including any blank script books. The exam script books are the property of Edinburgh Napier University and must not be removed from the exam room. Students must complete the exam script books in ink, unless otherwise stated.\n\nIf you finish more than fifteen minutes before the end of the exam, raise your hand to attract the attention of the invigilator who will come to you to collect your script books. Students finishing within fifteen minutes of the end of the exam will not be allowed to leave the room until the end of the exam.\n\nAt the end of the exam, remain in your seat until the invigilator has collected your script books from you. Script books will be anonymously marked. Please ensure that your Registration Number appears on EACH script book and that you have followed the instruction on the cover of the script book.\n\nIf you become ill during an exam to such an extent that you are unable to continue with the exam, you must draw this to the attention of an invigilator immediately for further advice. If you feel that your performance is affected during this exam by factors beyond your control, e.g. external noise or other factors, please inform your invigilator and after the exam is complete contact your school office within two working days for further advice.\n\nAny action contrary to these instructions may lead to disciplinary action being taken by the University."
   },
   {
-    "intent": "exam_instructions",
+    "intent": "exams",
     "question": "Can you outline the conduct expected from students during a university exam?",
     "answer": "For each centrally timetabled exam which you take on campus you will be asked to sign the Instructions to Students form. This form will confirm that you understand what is expected of you whilst undertaking a university exam. You will also be asked to declare yourself fit to sit the exam and able to complete the exam to the best of your abilities. Please refer to Fit to Sit and Extenuating Circumstances pages.\n\nThis exam is being conducted under the regulations of the University and those of the external examining body (where appropriate). Once the exam has started, you may NOT leave the exam room until a period of one hour has elapsed from the start of the exam. If you do, you will be deemed to have withdrawn from the exam and your script book will not be marked.\n\nCommunication between students or any other irregular practice is not allowed once exam question papers have been issued. This instruction will be enforced during the exam and includes any reading time specified. No unauthorised material may be brought into the exam room. Check that you have no material which might later be construed as an aid in the exam. The invigilator will instruct you regarding the removal of any material which is unauthorised such as notebooks, textbooks, mobile phones/smart watches etc. In a case where the invigilator has any doubt about whether you may have infringed the exam regulations, the invigilator will remove your script book and any unauthorised material. You will then be issued with a new script book and instructed to continue with the exam from the point at which you were interrupted. An investigation will follow in due course after the exam has concluded.\n\nStudents are advised that programmable calculators may be used in appropriate exams provided that the memory/storage capability has been cleared prior to the start of the exam and the examiner has approved the use of programmable calculators. Sharing calculators is NOT permitted. The use of mobile phones/smart watches as calculators is NOT permitted. If you forget your calculator, please be advised that the Exam Office cannot provide a calculator.\n\nDo not leave your seat during the exam. Attract the invigilator\u2019s attention by raising your hand. The invigilator will come to you. If you require a toilet break, please attract the invigilator\u2019s attention by raising your hand.\n\nAll students should produce an Edinburgh Napier Student Card, in order to gain entry to the exam room, which should be placed on your desk throughout the exam. Please be aware that you can also use the digital version of your Student Card available via the Edinburgh Napier App.\n\nStudents must read the instructions on the front of the exam question paper before commencing work. The consumption of food and drink, other than bottled water, is not permitted in the exam room with the exception of students with an agreed Additional Adjustment.\n\nAll electronic devices including mobile phones, smart watches etc. must be switched off and placed in the bag provided and left on the student\u2019s desk during the exam and may not be taken out of the exam room until the end of the exam. Exam question papers must not be removed from the exam room during the exam.\n\nAll rough work must be done in the exam script books and subsequently struck through if it is not intended for the examiner\u2019s attention. You must hand in all script books at the close of the exam including any blank script books. The exam script books are the property of Edinburgh Napier University and must not be removed from the exam room. Students must complete the exam script books in ink, unless otherwise stated.\n\nIf you finish more than fifteen minutes before the end of the exam, raise your hand to attract the attention of the invigilator who will come to you to collect your script books. Students finishing within fifteen minutes of the end of the exam will not be allowed to leave the room until the end of the exam.\n\nAt the end of the exam, remain in your seat until the invigilator has collected your script books from you. Script books will be anonymously marked. Please ensure that your Registration Number appears on EACH script book and that you have followed the instruction on the cover of the script book.\n\nIf you become ill during an exam to such an extent that you are unable to continue with the exam, you must draw this to the attention of an invigilator immediately for further advice. If you feel that your performance is affected during this exam by factors beyond your control, e.g. external noise or other factors, please inform your invigilator and after the exam is complete contact your school office within two working days for further advice.\n\nAny action contrary to these instructions may lead to disciplinary action being taken by the University."
   },
   {
-    "intent": "exam_instructions",
+    "intent": "exams",
     "question": "What behaviour is required and what materials are allowed during campus exams?",
     "answer": "For each centrally timetabled exam which you take on campus you will be asked to sign the Instructions to Students form. This form will confirm that you understand what is expected of you whilst undertaking a university exam. You will also be asked to declare yourself fit to sit the exam and able to complete the exam to the best of your abilities. Please refer to Fit to Sit and Extenuating Circumstances pages.\n\nThis exam is being conducted under the regulations of the University and those of the external examining body (where appropriate). Once the exam has started, you may NOT leave the exam room until a period of one hour has elapsed from the start of the exam. If you do, you will be deemed to have withdrawn from the exam and your script book will not be marked.\n\nCommunication between students or any other irregular practice is not allowed once exam question papers have been issued. This instruction will be enforced during the exam and includes any reading time specified. No unauthorised material may be brought into the exam room. Check that you have no material which might later be construed as an aid in the exam. The invigilator will instruct you regarding the removal of any material which is unauthorised such as notebooks, textbooks, mobile phones/smart watches etc. In a case where the invigilator has any doubt about whether you may have infringed the exam regulations, the invigilator will remove your script book and any unauthorised material. You will then be issued with a new script book and instructed to continue with the exam from the point at which you were interrupted. An investigation will follow in due course after the exam has concluded.\n\nStudents are advised that programmable calculators may be used in appropriate exams provided that the memory/storage capability has been cleared prior to the start of the exam and the examiner has approved the use of programmable calculators. Sharing calculators is NOT permitted. The use of mobile phones/smart watches as calculators is NOT permitted. If you forget your calculator, please be advised that the Exam Office cannot provide a calculator.\n\nDo not leave your seat during the exam. Attract the invigilator\u2019s attention by raising your hand. The invigilator will come to you. If you require a toilet break, please attract the invigilator\u2019s attention by raising your hand.\n\nAll students should produce an Edinburgh Napier Student Card, in order to gain entry to the exam room, which should be placed on your desk throughout the exam. Please be aware that you can also use the digital version of your Student Card available via the Edinburgh Napier App.\n\nStudents must read the instructions on the front of the exam question paper before commencing work. The consumption of food and drink, other than bottled water, is not permitted in the exam room with the exception of students with an agreed Additional Adjustment.\n\nAll electronic devices including mobile phones, smart watches etc. must be switched off and placed in the bag provided and left on the student\u2019s desk during the exam and may not be taken out of the exam room until the end of the exam. Exam question papers must not be removed from the exam room during the exam.\n\nAll rough work must be done in the exam script books and subsequently struck through if it is not intended for the examiner\u2019s attention. You must hand in all script books at the close of the exam including any blank script books. The exam script books are the property of Edinburgh Napier University and must not be removed from the exam room. Students must complete the exam script books in ink, unless otherwise stated.\n\nIf you finish more than fifteen minutes before the end of the exam, raise your hand to attract the attention of the invigilator who will come to you to collect your script books. Students finishing within fifteen minutes of the end of the exam will not be allowed to leave the room until the end of the exam.\n\nAt the end of the exam, remain in your seat until the invigilator has collected your script books from you. Script books will be anonymously marked. Please ensure that your Registration Number appears on EACH script book and that you have followed the instruction on the cover of the script book.\n\nIf you become ill during an exam to such an extent that you are unable to continue with the exam, you must draw this to the attention of an invigilator immediately for further advice. If you feel that your performance is affected during this exam by factors beyond your control, e.g. external noise or other factors, please inform your invigilator and after the exam is complete contact your school office within two working days for further advice.\n\nAny action contrary to these instructions may lead to disciplinary action being taken by the University."
   },
@@ -2009,6 +2417,33 @@
     "question": "How are exams scheduled?",
     "answer": "Exams may be scheduled at any time during the exam period, so it is your responsibility to be available throughout the exam diets, including the reassessment diets (resits) just in case you have an exam to resit."
   },
+  
+  {
+    "intent": "exam_schedule",
+    "question": "What is the process for scheduling exams?",
+    "answer": "Exams may be scheduled at any time during the exam period, so it is your responsibility to be available throughout the exam diets, including the reassessment diets (resits) just in case you have an exam to resit."
+  },
+  {
+    "intent": "exam_schedule",
+    "question": "When and how are exam dates decided?",
+    "answer": "Exams may be scheduled at any time during the exam period, so it is your responsibility to be available throughout the exam diets, including the reassessment diets (resits) just in case you have an exam to resit."
+  },
+  {
+    "intent": "exam_schedule",
+    "question": "How is the exam timetable arranged?",
+    "answer": "Exams may be scheduled at any time during the exam period, so it is your responsibility to be available throughout the exam diets, including the reassessment diets (resits) just in case you have an exam to resit."
+  },
+  {
+    "intent": "exam_schedule",
+    "question": "Who sets the dates for exams and how is it done?",
+    "answer": "Exams may be scheduled at any time during the exam period, so it is your responsibility to be available throughout the exam diets, including the reassessment diets (resits) just in case you have an exam to resit."
+  },
+  {
+    "intent": "exam_schedule",
+    "question": "What determines when my exams will take place?",
+    "answer": "Exams may be scheduled at any time during the exam period, so it is your responsibility to be available throughout the exam diets, including the reassessment diets (resits) just in case you have an exam to resit."
+  },
+
   {
     "intent": "exam_schedule",
     "question": "What is the process for scheduling university exams?",
@@ -2029,6 +2464,33 @@
     "question": "Can exams take place at any time during the diet?",
     "answer": "Exams may be scheduled at any time during the exam period, so it is your responsibility to be available throughout the exam diets, including the reassessment diets (resits) just in case you have an exam to resit."
   },
+  
+  {
+    "intent": "exam_schedule",
+    "question": "Is it possible for exams to happen at any point in the exam period?",
+    "answer": "Exams may be scheduled at any time during the exam period, so it is your responsibility to be available throughout the exam diets, including the reassessment diets (resits) just in case you have an exam to resit."
+  },
+  {
+    "intent": "exam_schedule",
+    "question": "Can exams be scheduled on any day during the assessment period?",
+    "answer": "Exams may be scheduled at any time during the exam period, so it is your responsibility to be available throughout the exam diets, including the reassessment diets (resits) just in case you have an exam to resit."
+  },
+  {
+    "intent": "exam_schedule",
+    "question": "Do I need to be available for exams throughout the full exam timetable?",
+    "answer": "Exams may be scheduled at any time during the exam period, so it is your responsibility to be available throughout the exam diets, including the reassessment diets (resits) just in case you have an exam to resit."
+  },
+  {
+    "intent": "exam_schedule",
+    "question": "Are exams allowed to be held at any time in the diet window?",
+    "answer": "Exams may be scheduled at any time during the exam period, so it is your responsibility to be available throughout the exam diets, including the reassessment diets (resits) just in case you have an exam to resit."
+  },
+  {
+    "intent": "exam_schedule",
+    "question": "Should I keep myself free for the whole exam and resit period?",
+    "answer": "Exams may be scheduled at any time during the exam period, so it is your responsibility to be available throughout the exam diets, including the reassessment diets (resits) just in case you have an exam to resit."
+  },
+
   {
     "intent": "exam_schedule",
     "question": "Will I have more than one exam in a day?",
@@ -2054,6 +2516,33 @@
     "question": "Are students expected to take multiple exams in a single day?",
     "answer": "You will not be required to sit more than one exam on any one day. However, you may have two exams on consecutive days."
   },
+  
+  {
+    "intent": "exam_schedule",
+    "question": "Will I have to take more than one exam in a day?",
+    "answer": "You will not be required to sit more than one exam on any one day. However, you may have two exams on consecutive days."
+  },
+  {
+    "intent": "exam_schedule",
+    "question": "Can students be scheduled for multiple exams on the same day?",
+    "answer": "You will not be required to sit more than one exam on any one day. However, you may have two exams on consecutive days."
+  },
+  {
+    "intent": "exam_schedule",
+    "question": "Is it possible to have two exams in a single day?",
+    "answer": "You will not be required to sit more than one exam on any one day. However, you may have two exams on consecutive days."
+  },
+  {
+    "intent": "exam_schedule",
+    "question": "Do exam timetables allow more than one exam per day?",
+    "answer": "You will not be required to sit more than one exam on any one day. However, you may have two exams on consecutive days."
+  },
+  {
+    "intent": "exam_schedule",
+    "question": "Are students given two exams in a day during exam week?",
+    "answer": "You will not be required to sit more than one exam on any one day. However, you may have two exams on consecutive days."
+  },
+
   {
     "intent": "exam_delivery",
     "question": "How are exams delivered?",
@@ -8305,7 +8794,7 @@
     "answer": "If you are unable to attend your booking, please make sure that you cancel it through Resource Booker.\n\nThis will free up the available resource, allowing other Students and Staff to make a booking.\n\nTo cancel your booking:\n\nFind the booking you would like to cancel through My Bookings.\nThis opens up the Booking Confirmation window, select Cancel Booking.\nYou will then be asked if you wish to cancel the booking, select Yes to continue or No if you want to keep the booking as it is.\nThe booking will then be removed from your account and you will receive an email confirming the cancellation."
   },
   {
-    "intent": "facilities_booking",
+    "intent": "facility_booking",
     "question": "What computing facilities are available at Craiglockhart?",
     "answer": "The main computer suite at Craiglockhart is the Younger Suite*.   You can also access computers and equipment in the Atrium (foyer) and Library.\n\nWithin the Younger Suite you will find:\n\nComputer workstations\nApple Macs\nGroup study areas\nMulti-Function Devices (MFDs) to print, copy and scan\nPower connection areas - please don't unplug the workstations.\n* Some computers in the Younger Suite may be booked for classes - please see the sign at the end of each cluster."
   },
